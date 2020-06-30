@@ -1,0 +1,9 @@
+a {
+  @include link;
+
+  &.button-link {
+    @include button;
+    display: inline-block;
+    margin: 0;
+  }
+}
