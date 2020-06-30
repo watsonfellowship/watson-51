@@ -1,0 +1,13 @@
+title: Watson Foundation Fellows
+description: 
+
+sass:
+  load_paths:
+    - _sass
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - bin
+  - vendor

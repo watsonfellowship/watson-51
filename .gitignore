@@ -1,0 +1,9 @@
+_site
+*.gem
+.jekyll-cache/
+.jekyll-metadata
+.DS_store
+.bundle
+bin
+vendor
+node_modules
