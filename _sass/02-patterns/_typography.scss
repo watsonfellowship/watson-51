@@ -29,10 +29,6 @@ h6 {
   @include heading-6;
 }
 
-.divider-bottom {
-  @include divider-bottom;
-}
-
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
@@ -43,12 +39,11 @@ Block-level Elements
 
 p {
   @include paragraph;
-  margin-bottom: 1em;
 }
 
 ul, ol {
-  li {
-  margin-bottom: 1em;
+  li:not(:last-child) {
+    margin: $font-margin--body;
   }
 }
 
@@ -91,22 +86,6 @@ em, i {
   font-style: italic;
 }
 
-.font-bolditalic {
-  @include font-bolditalic;
-}
-
-.font-heading {
-  @include font-heading;
-}
-
-.font-headingitalic {
-  @include font-headingitalic;
-}
-
-.font-fallback {
-  @include font-fallback;
-}
-
 
 
 /* 
@@ -114,6 +93,7 @@ em, i {
 Special Formatting
 ////////////////////////////////////////////////////////////////////////////
 */
+
  small {
   @include small;
  }

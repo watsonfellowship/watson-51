@@ -39,10 +39,12 @@ body {
 }
 
 
-
-
 .container {
   @include container;
+}
+
+.container-padded {
+  @include container-padded;
 }
 
 hr {
@@ -51,18 +53,8 @@ hr {
   border: none;
 }
 
-.primary {
+main {
   margin-bottom: $spacing-section;
-  clear: both;
-  @include column(12);    
-
-  @include mq($m) {
-    @include column(8);    
-  }
-
-  @include mq($l) {
-    @include column(9);    
-  }
 
   ul, ol {
     margin: 0 0 1em 0;
@@ -74,21 +66,4 @@ hr {
   ol {
     list-style: decimal;
   }
-}
-
-.clear-none {
-  clear: none;
-}
-
-.divider-top {
-  @include divider-top;
-}
-.divider-bottom {
-  @include divider-bottom;
-}
-.divider-left {
-  @include divider-left;
-}
-.divider-right {
-  @include divider-right;
 }

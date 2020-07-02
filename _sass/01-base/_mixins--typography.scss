@@ -5,41 +5,44 @@ Basic font style mixins
 */
 
 @mixin font-regular { 
-  font-family: 'CustomFont', $serif;
-  font-weight: $font-weight-regular;
+  font-family: $font-family-base;
 }
 
 @mixin font-bold { 
-  font-family: 'CustomFont', $serif;
+  font-family: $font-family-base;
   font-weight: $font-weight-bold;
 }
 
+@mixin font-black { 
+  font-family: $font-family-base;
+  font-weight: $font-weight-black;
+}
+
 @mixin font-italic { 
-  font-family: 'CustomFont', $serif;
-  font-weight: $font-weight-regular;
+  font-family: $font-family-base;
   font-style:   italic;
 }
 
-@mixin font-bolditalic { 
-  font-family: 'CustomFont', $serif;
+@mixin font-bold-italic { 
+  font-family: $font-family-base;
   font-weight: $font-weight-bold;
   font-style:   italic;
 }
 
 @mixin font-heading { 
   font-family: $font-family-heading;
-  font-weight: $font-weight-light;
+  font-weight: $font-weight-bold;
 }
 
-@mixin font-headingitalic { 
-  font-family: $font-family-heading;
-  font-weight: $font-weight-light;
-  font-style:   italic;
+@mixin font-mono {
+  font-family: $font-family-monospace;
 }
 
-@mixin font-fallback { 
-  font-family: $sans;
+@mixin font-mono-bold {
+  font-family: $font-family-monospace;
+  font-weight: $font-weight-bold;
 }
+
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
@@ -72,7 +75,7 @@ Block-level typographic elements
   @include font-heading;
   color: $color-heading;
   line-height: $line-height-heading;
-  margin: $font-margin--heading-text;
+  margin: $font-margin--heading;
 
   a {
     @include link;
@@ -111,6 +114,7 @@ Block-level typographic elements
 
 @mixin paragraph {
   @include body-text;
+  margin: $font-margin--body;
 }
 
 @mixin li {

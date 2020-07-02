@@ -10,6 +10,7 @@
 }
 
 
+
 // The Media Query Mixin
 // ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 // FOR: Write less verbose Media Queries with variables
@@ -128,67 +129,4 @@
   }
 }
 
-
-
-// Form element mixins
-// ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-// FOR: 
-// USE: 
-
-@mixin button {
-    appearance: none;
-    border-radius: 0;
-    @include font-regular;
-    background: $color-link;
-    color: white !important;
-    @include smallcaps;
-    width: auto;
-    cursor: pointer;
-    display: block;
-    padding: $form-padding;
-    border: none;
-
-    &:hover, &:focus {
-      background: $color-link--active;
-      border: none;
-      text-decoration: none;
-    }
-}
-
-@mixin button-form {
-  @include button;
-  border: 0 none;
-  &:hover,
-  &:focus {
-    cursor: pointer;
-  }
-}
-
-@mixin button-disabled {
-  @include button;
-  background: tint($color-text, 90%);
-  &:hover,
-  &:focus {
-    background: tint($color-text, 90%);
-    cursor: default;
-  }
-}
-
-
-
-// Input Default
-// -------
-// FOR: Removing borders, shadows, and outlines for inputs
-// USE: @include input-default;
-
-@mixin input-default {
-  border: 0;
-  background-color: transparent;
-  box-shadow: none;
-  border-radius: 0;
-  -webkit-appearance: none;
-  &:focus {
-    outline: 0;
-  }
-}
 

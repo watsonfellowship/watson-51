@@ -126,15 +126,19 @@ $spacing-xxs: .25rem;
 $spacing-xs: .5rem;
 $spacing-sm: .75rem;
 $spacing-md: 1rem;
-$spacing-lg: 1.5rem;
-$spacing-xl: 2rem;
-$spacing-xxl: 3rem;
+$spacing-lg: 2rem;
+$spacing-xl: 3rem;
+$spacing-xxl: 5rem;
 
-$spacing-section: $spacing-xl;
-$form-padding: $spacing-sm;
+$font-margin--body: 0 0 $spacing-md;
+$font-margin--heading: 0 0 $spacing-xs;
 
-$font-margin--body-text: 0 0 $spacing-md;
-$font-margin--heading-text: 0 0 $spacing-xs;
+$header-height: 70px;
+
+$spacing-section: $spacing-md;
+
+$grid-padding: 3%;
+$grid-max-width: 1900px;
 
 
 
