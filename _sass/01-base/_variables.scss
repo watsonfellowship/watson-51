@@ -1,40 +1,21 @@
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
-Gray values
+Color variables
 ////////////////////////////////////////////////////////////////////////////
 */
 
-$color-gray-0: #000000;
-$color-gray-1: tint($color-gray-0, 10%);
-$color-gray-2: tint($color-gray-0, 20%);
-$color-gray-3: tint($color-gray-0, 30%);
-$color-gray-4: tint($color-gray-0, 40%);
-$color-gray-5: tint($color-gray-0, 50%);
-$color-gray-6: tint($color-gray-0, 60%);
-$color-gray-7: tint($color-gray-0, 70%);
-$color-gray-8: tint($color-gray-0, 80%);
-$color-gray-9: tint($color-gray-0, 90%);
-$color-gray-f: #ffffff;
+$color-black: #000;
+$color-white: #fff;
 
-$color-black: $color-gray-0;
-$color-white: $color-gray-f;
-$color-gray: $color-gray-5;
+$color-gray: gray;
+$color-gray-dark: darkgray;
+$color-gray-light: lightgray;
 
-
-/* 
-////////////////////////////////////////////////////////////////////////////
-Color values -- primary
-////////////////////////////////////////////////////////////////////////////
-*/
-
-$color-red: red;
-$color-orange: orange;
-$color-yellow: yellow;
-$color-green: green;
 $color-blue: blue;
-$color-indigo: indigo;
-$color-violet: violet;
+$color-red: red;
+$color-green: green;
+
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
@@ -45,7 +26,7 @@ Standard applications of color variables
 $color-base: $color-black;
 
 $color-background: $color-white;
-$color-background--tint: lighten($color-base, 50%);
+$color-background--tint: lighten($color-base, 90%);
 
 $color-text: $color-base;
 $color-text--light: lighten($color-text, 30%);
@@ -67,7 +48,7 @@ $color-button: $color-link;
 $color-button--active: $color-link--active;
 $color-button-text: $color-text--invert;
 
-$color-border: $color-gray-8;
+$color-border: $color-gray-light;
 
 
 
@@ -93,14 +74,18 @@ $font-family-heading: $font-family-sans;
 
 
 $font-size-base: 1rem;
-$font-size-small: .8rem;
-$font-size-h1: 2.75rem; 
-$font-size-h2: 2.25rem; 
-$font-size-h3: 1.5rem; 
-$font-size-h4: 1.2rem; 
-$font-size-h5: 1rem; 
-$font-size-h6: .8rem; 
+
+
+$font-size-h1: $font-size-base*3; 
+$font-size-h2: $font-size-base*2; 
+$font-size-h3: $font-size-base*1.5; 
+$font-size-h4: $font-size-base*1.2; 
+$font-size-h5: $font-size-base; 
+$font-size-h6: $font-size-base*0.8;
+
 $font-size-p: $font-size-base;
+$font-size-small: $font-size-base*0.8;
+
 $font-size-caption: $font-size-small;
 
 
@@ -131,7 +116,7 @@ $spacing-xl: 3rem;
 $spacing-xxl: 5rem;
 
 $font-margin--body: 0 0 $spacing-md;
-$font-margin--heading: 0 0 $spacing-xs;
+$font-margin--heading: 0 0 $spacing-xl;
 
 $header-height: 70px;
 

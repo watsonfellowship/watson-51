@@ -1,4 +1,11 @@
-header {
+.header {
+	height: $header-height;
+	background-color: $color-background--tint;
+	padding: $spacing-md;
+	display: flex;
+	align-items: center;
+	margin-bottom: $spacing-xl;
+
 	ul, ol { //clear styling from nav-based lists
 		@include ul-null;
 	}

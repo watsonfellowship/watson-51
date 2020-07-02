@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <h1>{{ page.title }}</h1>
+
+    <hr>
+    <p><strong>Intro, about this website, etc:</strong></p>
+    {{ content }}
+
+    <br>
+    <hr>
+    <p><strong>List of fellows:</strong></p>
+    {% for fellow in site.fellows %}
+      <article>
+        <a href="{{ fellow.url }}">
+          <img src="{{ site.baseurl }}/images/profiles/{{ fellow.slug }}-profile.jpg" alt="{{ fellow.title }}" width="200">
+          <h2>{{ fellow.title }}</h2>
+        </a>
+      </article>
+    {% endfor %}
+
+    {% include footer.html %}
+  </body>
+</html>
+

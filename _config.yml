@@ -11,3 +11,8 @@ exclude:
   - README.md
   - bin
   - vendor
+
+collections:
+  fellows:
+    output: true
+    sort_by: title
