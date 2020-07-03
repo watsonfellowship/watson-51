@@ -17,12 +17,12 @@
 // USE: @include container(70em);
 // USE: @include container(500px);
 
-@mixin container($maxwidth: none) {
+@mixin container($maxwidth: $container-max-width) {
   position: relative;
   max-width: $maxwidth;
 }
 
-@mixin container-padded($maxwidth: none) {
+@mixin container-padded($maxwidth: $container-max-width) {
   position: relative;
   padding: 0 $grid-padding;
   max-width: $maxwidth;

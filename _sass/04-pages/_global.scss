@@ -23,8 +23,8 @@ html {
 
 body {
   @include body-text;
-  color: $color-text;
-  background-color: $color-background;
+  @include container;
+  @include margin-auto;
   position: relative;
   padding: $spacing-md $spacing-xl;
 }

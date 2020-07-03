@@ -36,7 +36,7 @@
     <p><strong>Slideshow images:</strong></p>
     {% for image in site.static_files %}
       {% if image.path contains 'travel' and image.path contains page.slug %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" width="1000" />
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" />
       {% endif %}
     {% endfor %}
 
