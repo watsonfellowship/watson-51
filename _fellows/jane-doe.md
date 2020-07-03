@@ -3,8 +3,6 @@ layout: fellows
 
 title: Jane Doe
 
-profile_image: true
-
 project: Curabitur blandit tempus porttitor
 
 countries:
