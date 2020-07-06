@@ -1,0 +1,31 @@
+.comments-mock {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: $spacing-lg 0;
+}
+
+.comments-mock--input {
+	background-color: $color-background--tint;
+	height: $spacing-xl;
+	margin-bottom: $spacing-lg;
+}
+
+.comments-mock--input-half {
+	width: 48%;
+}
+
+.comments-mock--input-full {
+	width: 100%;
+}
+
+.comments-mock--textarea {
+	width: 100%;
+	height: $spacing-xl*4;
+}
+
+.comments-mock--button {
+	background-color: $color-gray;
+	width: $spacing-xxl*2;
+	height: $spacing-xl;
+}
