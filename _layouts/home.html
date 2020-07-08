@@ -7,6 +7,8 @@
 
     <h1>{{ page.title }}</h1>
 
+    <img src="{{ site.baseurl }}/images/map.png" alt="map" width="80%" style="display:block;margin:1em auto;">
+
     <hr>
     <p><strong>Intro, about this website, etc:</strong></p>
     {{ content }}
@@ -14,28 +16,21 @@
     <br>
     <hr>
     <p><strong>List of fellows:</strong></p>
-    {% for fellow in site.fellows %}
-      <article>
-        <a href="{{ site.baseurl }}{{ fellow.url }}">
-          <img src="{{ site.baseurl }}/images/profiles/{{ fellow.slug }}.jpg" alt="{{ fellow.title }}" width="200">
-          <h2>{{ fellow.title }}</h2>
-        </a>
-      </article>
-    {% endfor %}
 
-    <br>
-    <hr>
-    <p><strong>Comments section:</strong></p>
-
-    <div class="comments-mock">
-      <div class="comments-mock--input comments-mock--input-half"></div>
-      <div class="comments-mock--input comments-mock--input-half"></div>
-      <div class="comments-mock--input comments-mock--input-full"></div>
-      <div class="comments-mock--input comments-mock--textarea"></div>
-      <div class="comments-mock--button"></div>
+    <div style="display:flex; flex-wrap:wrap;">
+      {% for i in (1..20) %}
+        {% for fellow in site.fellows %}
+          <article style="display:inline-block; margin-right:2rem;">
+            <a href="{{ site.baseurl }}{{ fellow.url }}">
+              <img src="{{ site.baseurl }}/images/profiles/{{ fellow.slug }}.jpg" alt="{{ fellow.title }}" width="290">
+              <h3>{{ fellow.title }}</h3>
+            </a>
+          </article>
+        {% endfor %}
+      {% endfor %}
+      
     </div>
-
-
+    
     {% include footer.html %}
   </body>
 </html>

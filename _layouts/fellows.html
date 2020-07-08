@@ -6,7 +6,7 @@
     {% include header.html %}
 
     <figure>
-      <img src="{{ site.baseurl }}/images/profiles/{{ page.slug }}.jpg" alt="{{ page.title }}" width="200">
+      <img src="{{ site.baseurl }}/images/profiles/{{ page.slug }}.jpg" alt="{{ page.title }}" width="280">
     </figure>
 
     <p><strong>Fellow name:</strong></p>
@@ -17,13 +17,19 @@
     <h2>{{ page.project }}</h2>
 
     {% if page.countries %}
-      <hr>
-      <p><strong>Countries visited:</strong></p>
-      <ul>
-        {% for country in page.countries %}
-          <li>{{ country.name }}</li>
-        {% endfor %}
-      </ul>
+    <div style="position: relative;">
+      <img src="{{ site.baseurl }}/images/map.png" alt="map" width="80%" style="display:block;margin:1em auto;">
+  
+      <div style="position: absolute; top:50%; left:1em; width:100%; transform:translateY(-50%);">
+        <p><strong>Countries visited:</strong></p>
+        <ul>
+          {% for country in page.countries %}
+            <li>{{ country.name }}</li>
+          {% endfor %}
+        </ul>      
+      </div>
+
+    </div>
     {% endif %}
 
     <br>
