@@ -3,12 +3,23 @@ layout: fellows
 
 title: John Smith
 
+email: john.smith@gmail.com
+
+school: Oberlin College
+
 project: Cras justo dapibus ac facilisis
 
 countries:
-  - name: France
-  - name: China
-  - name: Vietnam
+  - Brazil
+  - Spain
+  - Thailand
+  - Kenya
+
+continents:
+  - Africa
+  - Asia
+  - Europe
+  - South America
 
 ---
 
