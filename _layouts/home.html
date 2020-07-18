@@ -17,19 +17,10 @@
     <hr>
     <p><strong>List of fellows:</strong></p>
 
-    <div style="display:flex; flex-wrap:wrap;">
-      {% for i in (1..20) %}
-        {% for fellow in site.fellows %}
-          <article style="display:inline-block; margin: 0 2rem 2rem 0;">
-            <a href="{{ site.baseurl }}{{ fellow.url }}">
-              <img src="{{ site.baseurl }}/images/profiles/{{ fellow.slug }}.jpg" alt="{{ fellow.title }}" width="290">
-              <h3 style="margin-bottom:0;">{{ fellow.title }}</h3>
-              <p>Project: {{ fellow.project }}</p>
-            </a>
-          </article>
-        {% endfor %}
-      {% endfor %}
-      
+    <div class="tease-grid">
+      {% for fellow in site.fellows %}
+        {% include tease-fellow.html %}
+      {% endfor %}            
     </div>
     
     {% include footer.html %}
