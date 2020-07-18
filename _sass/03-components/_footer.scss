@@ -1,11 +1,30 @@
-footer {
-	@extend .header;
-	ul, ol { //clear styling from nav-based lists
-		@include ul-null;
-	}
+.site-footer {
+  background-color: $color-accent;
+  color: $color-text--invert;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: $spacing-xl;
+  ul, ol { //clear styling from nav-based lists
+    @include ul-null;
+  }
 
-	p, li {
-		margin-bottom: 0;
-		@include small;
-	}
+  p, li {
+    margin-bottom: 0;
+    @include small;
+  }
+}
+
+.site-footer__logo-link {
+  svg {
+    fill: $color-white;
+    width: 134px;
+    height: 20px;
+  }
+}
+
+.site-footer__copyright {
+  @include smallcaps;
+  color: $color-text--invert;
 }

@@ -2,27 +2,28 @@
 <html>
   {% include head.html %}
 
-  <body>
+  <body class="home">
     {% include header.html %}
 
-    <h1>{{ page.title }}</h1>
+    <figure class="page-hero" style="background-image: url({{ site.baseurl }}/images/homepage-map.png);">
+      <div class="page-title">
+        <h1 class="page-title__heading">{{ site.title }}</h1>
+      </div>
+    </figure>
 
-    <img src="{{ site.baseurl }}/images/map.png" alt="map" width="80%" style="display:block;margin:1em auto;">
+    <div class="container-padded">
+      {{ content }}
 
-    <hr>
-    <p><strong>Intro, about this website, etc:</strong></p>
-    {{ content }}
+      <p class="smallcaps">2019 Fellows</p>
 
-    <br>
-    <hr>
-    <p><strong>List of fellows:</strong></p>
-
-    <div class="tease-grid">
-      {% for fellow in site.fellows %}
-        {% include tease-fellow.html %}
-      {% endfor %}            
+      <div class="tease-grid">
+        {% for fellow in site.fellows %}
+          {% include tease-fellow.html %}
+        {% endfor %}            
+      </div>
+      
     </div>
-    
+
     {% include footer.html %}
   </body>
 </html>

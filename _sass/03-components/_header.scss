@@ -1,12 +1,27 @@
-.header {
-	height: $header-height;
-	background-color: $color-background--tint;
-	padding: $spacing-md;
-	display: flex;
-	align-items: center;
-	margin-bottom: $spacing-xl;
+.site-header {
+  @include absolute(0 0 n 0);
+  z-index: $zIndex-1;
+  height: $header-height;
+}
 
-	ul, ol { //clear styling from nav-based lists
-		@include ul-null;
-	}
+.site-header__nav {
+  width: 100%;
+  @include container-padded;
+  @include margin-auto;
+  padding: $grid-padding;
+}
+
+.site-header__logo-link {
+  display: flex;
+  align-items: center;
+
+  svg {
+    stroke: $color-white;
+    stroke-width: 20;
+  }
+}
+
+.logo-link__hidden-text {
+  color: $color-text--invert;
+  padding-left: $spacing-md;
 }
