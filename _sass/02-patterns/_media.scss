@@ -7,19 +7,6 @@ Images, iframes, figures
 
 img, iframe {
   max-width: 100%;
-  -webkit-transform: translateZ(0);
-}
-
-figure {
-  margin: 0 0 $spacing-section 0; 
-
-  figcaption {
-    @include paragraph;
-    @include font-regular;
-    @include small;
-    color: $color-caption;
-    margin-top: $spacing-xs;
-  }
 }
 
 .circle {

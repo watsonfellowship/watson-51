@@ -51,6 +51,7 @@ body {
 
 main {
   @extend .container-padded;
+  margin-top: $spacing-section;
   margin-bottom: $spacing-section;
 }
 

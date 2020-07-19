@@ -1,7 +1,7 @@
 .site-header {
   @include absolute(0 0 n 0);
+  background: linear-gradient(0deg, transparent, rgba($color-black,.25));
   z-index: $zIndex-1;
-  height: $header-height;
 }
 
 .site-header__nav {
@@ -12,16 +12,43 @@
 }
 
 .site-header__logo-link {
-  display: flex;
+  position: relative;
+  display: inline-flex;
   align-items: center;
 
   svg {
     stroke: $color-white;
     stroke-width: 20;
+    @include animate;
+  }
+
+  &:hover, &:focus {
+    svg {
+      transform: scale(1.07);
+      opacity: 0.75;
+    }
+
+    .logo-link__hidden-text {
+      opacity: 1;
+      padding-left: $spacing-md;
+    }
   }
 }
 
 .logo-link__hidden-text {
-  color: $color-text--invert;
-  padding-left: $spacing-md;
+  display: none;
+
+  @include mq($lg) {
+    color: $color-text--invert;
+
+    display: block;
+    position: absolute;
+    pointer-events: none;
+    width: 25rem;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(4rem);
+    @include animate;
+    transition-delay: 0.125s;
+  }
 }

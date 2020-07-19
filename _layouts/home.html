@@ -11,18 +11,29 @@
       </div>
     </figure>
 
-    <div class="container-padded">
-      {{ content }}
+    <main class="main--home">
+      <div class="home-content">
+        {{ content }}        
+      </div>
 
-      <p class="smallcaps">2019 Fellows</p>
+      <p class="smallcaps tease-grid-intro">2019 Fellows</p>
 
       <div class="tease-grid">
         {% for fellow in site.fellows %}
-          {% include tease-fellow.html %}
-        {% endfor %}            
+          {% include tease.html %}
+        {% endfor %}
+        {% for fellow in site.fellows %}
+          {% include tease.html %}
+        {% endfor %}
+        {% for fellow in site.fellows %}
+          {% include tease.html %}
+        {% endfor %}
+        {% for fellow in site.fellows %}
+          {% include tease.html %}
+        {% endfor %}
       </div>
       
-    </div>
+    </main>
 
     {% include footer.html %}
   </body>
