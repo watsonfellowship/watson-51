@@ -2,49 +2,44 @@
 <html>
   {% include head.html %}
 
-  <body>
+  <body class="fellow">
     {% include header.html %}
 
-    <figure>
-      <img src="{{ site.baseurl }}/images/profiles/{{ page.slug }}.jpg" alt="{{ page.title }}" width="280">
+    <figure class="page-hero" style="background-image: url({{ site.baseurl }}/images/hero/{{ page.slug }}-hero.jpg);">
+      <div class="page-title">
+        <h1 class="page-title__heading fellow-name">{{ page.title }}</h1>
+        <p class="fellow-school">{{ page.school }}</p>
+      </div>
     </figure>
 
-    <p><strong>Fellow name:</strong></p>
-    <h1>{{ page.title }}</h1>
+    <main class="main--fellow">
+      <div class="fellow-profile">
+        <figure class="fellow-profile__img">
+          <img src="{{ site.baseurl }}/images/profiles/{{ page.slug }}.jpg" alt="{{ page.title }}" width="280">          
+        </figure>
 
-    <hr>
-    <p><strong>Project:</strong></p>
-    <h2>{{ page.project }}</h2>
+        <div class="fellow-profile__text">
+          <p class="smallcaps">Project</p>
+          <h2>{{ page.project }}</h2>
 
-    {% if page.countries %}
-    <div style="position: relative;">
-      <img src="{{ site.baseurl }}/images/map.png" alt="map" width="80%" style="display:block;margin:1em auto;">
-  
-      <div style="position: absolute; top:50%; left:1em; width:100%; transform:translateY(-50%);">
-        <p><strong>Countries visited:</strong></p>
-        <ul>
-          {% for country in page.countries %}
-            <li>{{ country.name }}</li>
-          {% endfor %}
-        </ul>      
+          {% if page.countries %}
+            <ul class="fellow-countries">
+              {% for country in page.countries %}
+                <li class="fellow-country">{{ country }}</li>{% unless forloop.last %},{% endunless %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {{ content }}
+        </div>
       </div>
 
-    </div>
-    {% endif %}
-
-    <br>
-    <hr>
-    <p><strong>Body text:</strong></p>
-    {{ content }}
-
-    <br>
-    <hr>
-    <p><strong>Slideshow images:</strong></p>
-    {% for image in site.static_files %}
-      {% if image.path contains 'travel' and image.name contains page.slug %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" />
-      {% endif %}
-    {% endfor %}
+      {% for image in site.static_files %}
+        {% if image.path contains 'travel' and image.name contains page.slug %}
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" />
+        {% endif %}
+      {% endfor %}
+    </main>
 
     {% include footer.html %}
   </body>

@@ -1,0 +1,54 @@
+.fellow-name {
+  margin-bottom: $spacing-xs;
+}
+
+.fellow-school {
+  @include heading-3;
+  color: $color-text--invert;
+  opacity: 0.7;
+}
+
+.fellow-profile {
+  margin-bottom: $spacing-section;
+
+  @include mq($md) {
+    display: flex;
+    align-items: flex-start;
+  }
+}
+
+.fellow-profile__img {
+  @include mq($md) {
+    width: 30%;
+    padding-right: $spacing-lg;    
+  }
+
+  @include mq($lg) {
+    width: 25%;
+    padding-right: $spacing-lg;    
+  }
+
+  img {
+    display: block;
+    border-radius: 50%;
+  }
+}
+
+.fellow-profile__text {
+  @include mq($md) {
+    width: 60%;
+  }
+
+  @include mq($lg) {
+    width: 50%;
+  }
+}
+
+.fellow-countries {
+  @include ul-null;
+  margin-bottom: $spacing-section;
+}
+
+.fellow-country {
+  display: inline;  
+}

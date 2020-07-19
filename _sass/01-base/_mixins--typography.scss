@@ -31,7 +31,7 @@ Basic font style mixins
 
 @mixin font-heading { 
   font-family: $font-family-heading;
-  font-weight: $font-weight-bold;
+  font-weight: $font-weight-regular;
 }
 
 @mixin font-mono {
@@ -141,7 +141,7 @@ Stylistic applications
 
 @mixin smallcaps {
   @include caps;
-  font-size: $font-size-small;
+  color: $color-heading;
 }
 
 @mixin small {

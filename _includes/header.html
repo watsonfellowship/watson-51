@@ -1,5 +1,8 @@
-<nav class="header">
-  <a href="{{ site.baseurl }}/">
-    Watson Foundation Fellows — Home Link
-  </a>
-</nav>
+<header class="site-header">
+  <nav class="site-header__nav">
+    <a class="site-header__logo-link" href="{{ site.baseurl }}/">
+      {% include svg/watson-logo.svg %}
+      <span class="logo-link__hidden-text">{{ site.title }}</span>
+    </a>
+  </nav>
+</header>

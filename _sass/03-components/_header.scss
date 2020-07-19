@@ -1,12 +1,54 @@
-.header {
-	height: $header-height;
-	background-color: $color-background--tint;
-	padding: $spacing-md;
-	display: flex;
-	align-items: center;
-	margin-bottom: $spacing-xl;
+.site-header {
+  @include absolute(0 0 n 0);
+  background: linear-gradient(0deg, transparent, rgba($color-black,.25));
+  z-index: $zIndex-1;
+}
 
-	ul, ol { //clear styling from nav-based lists
-		@include ul-null;
-	}
+.site-header__nav {
+  width: 100%;
+  @include container-padded;
+  @include margin-auto;
+  padding: $grid-padding;
+}
+
+.site-header__logo-link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+
+  svg {
+    stroke: $color-white;
+    stroke-width: 20;
+    @include animate;
+  }
+
+  &:hover, &:focus {
+    svg {
+      transform: scale(1.07);
+      opacity: 0.75;
+    }
+
+    .logo-link__hidden-text {
+      opacity: 1;
+      padding-left: $spacing-md;
+    }
+  }
+}
+
+.logo-link__hidden-text {
+  display: none;
+
+  @include mq($lg) {
+    color: $color-text--invert;
+
+    display: block;
+    position: absolute;
+    pointer-events: none;
+    width: 25rem;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(4rem);
+    @include animate;
+    transition-delay: 0.125s;
+  }
 }
