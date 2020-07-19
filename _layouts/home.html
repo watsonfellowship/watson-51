@@ -19,17 +19,10 @@
       <p class="smallcaps tease-grid-intro">2019 Fellows</p>
 
       <div class="tease-grid">
-        {% for fellow in site.fellows %}
-          {% include tease.html %}
-        {% endfor %}
-        {% for fellow in site.fellows %}
-          {% include tease.html %}
-        {% endfor %}
-        {% for fellow in site.fellows %}
-          {% include tease.html %}
-        {% endfor %}
-        {% for fellow in site.fellows %}
-          {% include tease.html %}
+        {% for i in (1..20) %}
+          {% for fellow in site.fellows %}
+            {% include tease.html %}
+          {% endfor %}
         {% endfor %}
       </div>
       
