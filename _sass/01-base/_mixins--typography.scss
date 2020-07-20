@@ -31,7 +31,7 @@ Basic font style mixins
 
 @mixin font-heading { 
   font-family: $font-family-heading;
-  font-weight: $font-weight-regular;
+  font-weight: $font-weight-medium;
 }
 
 @mixin font-mono {
@@ -136,7 +136,7 @@ Stylistic applications
 
 @mixin caps {
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 @mixin smallcaps {
