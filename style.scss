@@ -33,6 +33,7 @@ In this file you should centralize your imports
 /* 03 -- individual components reused throughout multiple layouts: header, footer, navigation, sidebars, carousels, etc. */
 @import "03-components/header";
 @import "03-components/footer";
+@import "03-components/teases";
 
 
 /* 04 -- idividual page layouts, including global styles */
