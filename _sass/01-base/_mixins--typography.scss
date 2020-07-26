@@ -84,17 +84,29 @@ Block-level typographic elements
 
 @mixin heading-1 {
   @include heading-text;
-  font-size: $font-size-h1; 
+  font-size: $font-size-h2;
+
+  @include mq($md) {
+    font-size: $font-size-h1;
+  }
 }
 
 @mixin heading-2 {
   @include heading-text;
-  font-size: $font-size-h2; 
+  font-size: $font-size-h3;
+
+  @include mq($md) {
+    font-size: $font-size-h2;
+  }
 }
 
 @mixin heading-3 {
   @include heading-text;
-  font-size: $font-size-h3; 
+  font-size: $font-size-h4;
+
+  @include mq($md) {
+    font-size: $font-size-h3;
+  }
 }
 
 @mixin heading-4 {
