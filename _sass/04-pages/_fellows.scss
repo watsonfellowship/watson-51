@@ -49,6 +49,7 @@
 
 .fellow-countries {
   @include ul-null;
+  line-height: $line-height-small;
   margin-bottom: $spacing-section;
 }
 
