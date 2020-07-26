@@ -1,1 +1,21 @@
-console.log('Why hello there')
+$(document).ready(function() {
+  // add "visible" class to home page intro as soon as the doc loads
+  // $('.page-hero').addClass('js-inview--visible');
+
+
+  // // add "visible" class to other elements when they enter the viewport, via IntersectionObserver
+  const items = document.querySelectorAll('.js-inview');
+  observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.intersectionRatio > 0) {
+        entry.target.classList.add('js-inview--visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  });
+
+  items.forEach(item => {
+    observer.observe(item);
+  });
+  
+});

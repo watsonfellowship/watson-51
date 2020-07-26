@@ -8,6 +8,18 @@
   grid-gap: $spacing-xl;
 }
 
+.tease {
+  &.js-inview {
+    opacity: 0;
+    @include animate(opacity, 2s, 0);
+  }
+
+  &.js-inview--visible {
+    opacity: 1;
+  }
+}
+
+
 .tease__link {
   @include mq(0, $md) {
     display: flex;

@@ -1,6 +1,6 @@
 .site-header {
   @include absolute(0 0 n 0);
-  background: linear-gradient(0deg, transparent, rgba($color-black,.25));
+  background: linear-gradient(0deg, transparent, rgba($color-black,.33));
   z-index: $zIndex-1;
 }
 

@@ -54,6 +54,7 @@ main {
 }
 
 .page-hero {
+  position: relative;
   min-height: 75vh;
   display: flex;
   align-items: flex-end;
@@ -61,10 +62,27 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  &.js-inview {
+    &::after {
+      content: "";
+      @include absolute(0 0 0 0);
+      @include animate(opacity, 3.5s, 0.25s);
+      background-color: $color-gray-dark;
+    }
+  }
+
+  &.js-inview--visible {
+    &::after {
+     opacity: 0; 
+    }
+  }
 }
 
 
 .page-title {
+  position: relative;
+  z-index: $zIndex-0;
   padding: 0 $grid-padding $spacing-lg;
   width: 100%;
   background: linear-gradient(0deg, rgba($color-black,.25), transparent);

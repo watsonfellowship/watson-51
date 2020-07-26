@@ -78,4 +78,13 @@
     width: 100%;
     margin-bottom: $spacing-lg;
   }
+
+  &.js-inview {
+    opacity: 0;
+    @include animate(opacity, 2s, 0);
+  }
+
+  &.js-inview--visible {
+    opacity: 1;
+  }
 }
