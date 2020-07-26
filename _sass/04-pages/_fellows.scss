@@ -60,6 +60,7 @@
 .travel-images {
   @include mq($md) {
     columns: 2;
+    column-width: 50%;
     column-gap: $spacing-lg;
   }
 
@@ -68,23 +69,30 @@
   }
 }
 
-.travel-images__img {
+.travel-images__figure {
   display: block;
-  margin-bottom: $grid-padding;
+  margin-bottom: 0;
+  padding-bottom: $grid-padding;
 
   @include mq($md) {
-    display: inline-block;
-    float: left;
-    width: 100%;
-    margin-bottom: $spacing-lg;
+    padding-bottom: $spacing-lg;
   }
 
   &.js-inview {
-    opacity: 0;
-    @include animate(opacity, 2s, 0);
+    .travel-images__img {
+      opacity: 0;
+      @include animate(opacity, 2s, 0);
+      will-change: opacity;
+    }
   }
 
   &.js-inview--visible {
-    opacity: 1;
+    .travel-images__img {
+      opacity: 1;
+    }
   }
+}
+
+.travel-images__img {
+  display: block;
 }

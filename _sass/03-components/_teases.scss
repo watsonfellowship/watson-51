@@ -12,6 +12,7 @@
   &.js-inview {
     opacity: 0;
     @include animate(opacity, 2s, 0);
+    will-change: opacity;
   }
 
   &.js-inview--visible {
@@ -40,6 +41,7 @@
   border-radius: 50%;
   overflow: hidden;
   margin: 0 $spacing-md 0 0;    
+  will-change: transform, opacity;
 
   @include mq(0, $md) {
     flex: 1;  

@@ -1,7 +1,9 @@
 <div class="travel-images">
   {% for image in site.static_files %}
     {% if image.path contains 'travel' and image.name contains page.slug %}
-      <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" class="travel-images__img js-inview" loading="lazy" />        
+      <figure class="travel-images__figure js-inview">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" class="travel-images__img" />
+      </figure>
     {% endif %}
 {% endfor %}
 </div>
