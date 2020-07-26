@@ -1,7 +1,4 @@
 $(document).ready(function() {
-  // add "visible" class to home page intro as soon as the doc loads
-  // $('.page-hero').addClass('js-inview--visible');
-
 
   // // add "visible" class to other elements when they enter the viewport, via IntersectionObserver
   const items = document.querySelectorAll('.js-inview');
