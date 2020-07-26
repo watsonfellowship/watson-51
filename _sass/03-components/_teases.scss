@@ -1,0 +1,75 @@
+.tease-grid-intro {
+  margin: $spacing-xxl 0 $spacing-xl;
+}
+
+.tease-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: $spacing-xl;
+}
+
+.tease {
+  &.js-inview {
+    opacity: 0;
+    @include animate(opacity, 2s, 0);
+    will-change: opacity;
+  }
+
+  &.js-inview--visible {
+    opacity: 1;
+  }
+}
+
+
+.tease__link {
+  @include mq(0, $md) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &:hover, &:focus {
+    .tease-figure__img {
+      transform: scale(1.03);
+      opacity: 0.9;    
+    }
+  }
+}
+
+.tease-figure {
+  background-color: $color-accent;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 $spacing-md 0 0;    
+  will-change: transform, opacity;
+
+  @include mq(0, $md) {
+    flex: 1;  
+  }
+  
+  @include mq($md) {
+    margin: 0 0 $spacing-md;    
+  }
+}
+
+.tease-figure__img {
+  display: block;
+  @include animate;
+}
+
+.tease-text {
+  @include mq(0, $md) {
+    flex: 2;  
+  }
+}
+
+.tease-text__name {
+  @include heading-4;
+  margin-bottom: $spacing-xxs;
+  font-family: $font-family-sans;
+}
+
+.tease-text__school {
+  margin-bottom: 0;
+  line-height: $line-height-small;
+}

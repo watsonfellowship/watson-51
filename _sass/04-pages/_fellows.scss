@@ -1,11 +1,14 @@
 .fellow-name {
+  font-family: $font-family-sans;
+  font-weight: $font-weight-regular;
   margin-bottom: $spacing-xs;
 }
 
 .fellow-school {
   @include heading-3;
+  @include text-shadow;
   color: $color-text--invert;
-  opacity: 0.7;
+  opacity: 0.75;
 }
 
 .fellow-profile {
@@ -46,9 +49,11 @@
 
 .fellow-countries {
   @include ul-null;
+  line-height: $line-height-small;
   margin-bottom: $spacing-section;
 }
 
 .fellow-country {
+  @include small;
   display: inline;  
 }

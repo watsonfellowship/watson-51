@@ -6,11 +6,9 @@
   justify-content: space-between;
   align-items: center;
   padding: $spacing-xl;
-  ul, ol { //clear styling from nav-based lists
-    @include ul-null;
-  }
+  margin-top: $spacing-xxl;
 
-  p, li {
+  small {
     margin-bottom: 0;
     @include small;
   }
@@ -21,6 +19,14 @@
     fill: $color-white;
     width: 134px;
     height: 20px;
+    @include animate;
+  }
+
+  &:hover, &:focus {
+    svg {
+      transform: scale(1.03);
+      opacity: 0.75;
+    }
   }
 }
 

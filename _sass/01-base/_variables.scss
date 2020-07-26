@@ -67,7 +67,7 @@ $font-family-base: $font-family-sans;
 $font-family-heading: $font-family-serif;
 
 
-$font-size-base: 1rem;
+$font-size-base: 1.2rem;
 
 
 $font-size-h1: $font-size-base*3; 
@@ -83,7 +83,7 @@ $font-size-small: $font-size-base*0.8;
 $font-size-caption: $font-size-small;
 
 
-$line-height-base: 1.5;
+$line-height-base: 1.7;
 $line-height-small: 1.2;
 $line-height-body: $line-height-base;
 $line-height-p: $line-height-base;
@@ -116,7 +116,7 @@ $header-height: 70px;
 
 $spacing-section: $spacing-xl;
 
-$grid-padding: 3%;
+$grid-padding: 5%;
 $container-max-width: 1400px;
 
 
@@ -132,6 +132,7 @@ $sm: 600px;
 $md: 768px;
 $lg: 1024px;
 $xl: 1400px;
+$xxl: 2400px;
 
 
 /* 

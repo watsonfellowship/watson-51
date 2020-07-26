@@ -5,30 +5,25 @@
   <body class="home">
     {% include header.html %}
 
-    <figure class="page-hero" style="background-image: url({{ site.baseurl }}/images/homepage-map.png);">
+    <figure class="page-hero js-inview" style="background-image: url({{ site.baseurl }}/images/homepage-map.png);">
       <div class="page-title">
-        <h1 class="page-title__heading">{{ site.title }}</h1>
+        <div class="container">
+          <h1 class="page-title__heading">{{ site.title }}</h1>
+        </div>
       </div>
     </figure>
 
     <main class="main--home">
-      <div class="home-content">
-        {{ content }}        
+      <div class="container">
+        <div class="home-content">
+          {{ content }}
+        </div>
       </div>
 
-      <p class="smallcaps tease-grid-intro">2019 Fellows</p>
-
-      <div class="tease-grid">
-        {% for i in (1..20) %}
-          {% for fellow in site.fellows %}
-            {% include tease.html %}
-          {% endfor %}
-        {% endfor %}
-      </div>
-      
+      {% include tease-grid.html %}
+        
     </main>
 
     {% include footer.html %}
   </body>
 </html>
-

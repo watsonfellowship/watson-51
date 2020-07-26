@@ -31,7 +31,7 @@ Basic font style mixins
 
 @mixin font-heading { 
   font-family: $font-family-heading;
-  font-weight: $font-weight-regular;
+  font-weight: $font-weight-medium;
 }
 
 @mixin font-mono {
@@ -84,17 +84,29 @@ Block-level typographic elements
 
 @mixin heading-1 {
   @include heading-text;
-  font-size: $font-size-h1; 
+  font-size: $font-size-h2;
+
+  @include mq($md) {
+    font-size: $font-size-h1;
+  }
 }
 
 @mixin heading-2 {
   @include heading-text;
-  font-size: $font-size-h2; 
+  font-size: $font-size-h3;
+
+  @include mq($md) {
+    font-size: $font-size-h2;
+  }
 }
 
 @mixin heading-3 {
   @include heading-text;
-  font-size: $font-size-h3; 
+  font-size: $font-size-h4;
+
+  @include mq($md) {
+    font-size: $font-size-h3;
+  }
 }
 
 @mixin heading-4 {
@@ -136,7 +148,7 @@ Stylistic applications
 
 @mixin caps {
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 @mixin smallcaps {
@@ -148,39 +160,6 @@ Stylistic applications
   font-size: $font-size-small;
 }
 
-// Fancy Underline
-// -------
-// FOR: Styling links that (1)retain the base text color; (2)have a nice thin underline that clears descenders; (3)changes to the link color on hover/focus
-// USE: @include fancy-underline;
-// USE: @include fancy-underline($text-color, $text-shadow-color, $link-color);
-
-@mixin fancy-underline($text-color:inherit, $text-shadow-color:$white, $link-color:$link-color) {
-  color: $text-color;
-  box-shadow: inset 0 -1px 0 0 $link-color;
-  text-shadow: 1px 1px 0 $text-shadow-color, -1px 1px 0 $text-shadow-color;
-  text-decoration: none;
-
-  &:hover {
-    text-decoration: none;
-    color: $link-color;
-  }  
-}
-
-// Fancy Underline--Subtle
-// -------
-// FOR: Links that look like normal text, but only get the "fancy underline" on hover (usually used on headings)
-// USE: @include fancy-underline--subtle;
-// USE: @include fancy-underline--subtle($text-color, $text-shadow-color, $link-color);
-
-@mixin fancy-underline--subtle($text-color:inherit, $text-shadow-color:$white, $link-color:$link-color) {
-  position: relative;
-  color: $text-color;
-  box-shadow: inset 0 0 0 0 $link-color;
-
-  &:hover {
-    color: $text-color;
-    box-shadow: inset 0 -1px 0 0 $link-color;
-    text-shadow: 1px 1px 0 $text-shadow-color, -1px 1px 0 $text-shadow-color;
-    text-decoration: none;
-  }  
+@mixin text-shadow {
+  text-shadow: 0 0 50px rgba($color-black,0.5);
 }

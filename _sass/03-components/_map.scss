@@ -1,0 +1,147 @@
+.map {
+  position: relative;
+  margin-bottom: $spacing-lg;
+}
+
+.map__background {
+  display: block;
+}
+
+.map__destination {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  &--australia {
+    top: 72%;
+    left: 85%;
+  }
+
+  &--argentina {
+    top: 77%;
+    left: 29%;
+  }
+
+  &--brazil {
+    top: 62%;
+    left: 32%;
+  }
+
+  &--chile {
+    top: 79%;
+    left: 26.8%;
+  }
+
+  &--costa-rica {
+    top: 51%;
+    left: 23.4%;
+  }
+
+  &--england,
+  &--uk {
+    top: 23.8%;
+    left: 47%;
+  }
+
+  &--france {
+    top: 28%;
+    left: 48%;
+  }
+
+  &--hungary {
+    top: 27.8%;
+    left: 53%;
+  }
+
+  &--india {
+    top: 45%;
+    left: 69%;
+  }
+
+  &--italy {
+    top: 31%;
+    left: 50.7%;
+  }
+
+  &--japan {
+    top: 35.7%;
+    left: 86.5%;
+  }
+
+  &--madagascar {
+    top: 67%;
+    left: 60.5%;
+  }
+
+  &--malta {
+    top: 35.9%;
+    left: 51.5%;
+  }
+
+  &--nepal {
+    top: 40.5%;
+    left: 71%;
+  }
+
+  &--new-zealand {
+    top: 83%;
+    left: 96%;
+  }
+
+  &--norway {
+    top: 14.5%;
+    left: 49.7%;
+  }
+
+  &--paraguay {
+    top: 68.6%;
+    left: 30.5%;
+  }
+
+  &--peru {
+    top: 61%;
+    left: 25.5%;
+  }
+
+  &--rwanda {
+    top: 57.8%;
+    left: 55.8%;
+  }
+
+  &--south-africa {
+    top: 74%;
+    left: 53.6%;
+  }
+
+  &--south-korea {
+    top: 35.8%;
+    left: 83.8%;
+  }
+
+  &--scotland {
+    top: 18.5%;
+    left: 46.2%;
+  }
+
+  &--spain {
+    top: 33%;
+    left: 46%;
+  }
+
+  &--switzerland {
+    top: 28.5%;
+    left: 49.8%;
+  }
+
+  &--thailand {
+    top: 48%;
+    left: 76%;
+  }
+
+  svg {
+    display: block;
+    stroke: $color-white;
+    stroke-width: 1;
+    fill: $color-accent;
+  }
+}

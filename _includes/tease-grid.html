@@ -1,0 +1,10 @@
+<div class="container">
+	<p class="smallcaps tease-grid-intro">2019 Fellows</p>
+	<div class="tease-grid">
+	{% for fellow in site.fellows %}
+	  {% if page.url != fellow.url %}
+	    {% include tease.html %}
+	  {% endif %}
+	{% endfor %}
+	</div>	
+</div>

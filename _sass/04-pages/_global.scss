@@ -19,13 +19,11 @@ If you're calling the container mixin, you can define a custom max-width. Otherw
 html {
   font-size: 1em; /* change this for different breakpoints to make a responsive typographic scale */
   scroll-behavior: smooth;
-  background-color: $color-accent;
   }
 
 body {
   @include body-text;
   position: relative;
-  background-color: $color-background;
 }
 
 ::selection {
@@ -50,12 +48,13 @@ body {
 }
 
 main {
-  @extend .container-padded;
   margin-top: $spacing-section;
   margin-bottom: $spacing-section;
+  padding: 0 $grid-padding;
 }
 
 .page-hero {
+  position: relative;
   min-height: 75vh;
   display: flex;
   align-items: flex-end;
@@ -63,17 +62,34 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  &.js-inview {
+    &::after {
+      content: "";
+      @include absolute(0 0 0 0);
+      @include animate(opacity, 3.5s, 0.25s);
+      background-color: $color-gray-dark;
+    }
+  }
+
+  &.js-inview--visible {
+    &::after {
+     opacity: 0; 
+    }
+  }
 }
 
 
 .page-title {
-  @include container-padded;
-  @include margin-auto;
-  padding-bottom: $spacing-lg;
+  position: relative;
+  z-index: $zIndex-0;
+  padding: 0 $grid-padding $spacing-lg;
   width: 100%;
+  background: linear-gradient(0deg, rgba($color-black,.25), transparent);
 }
 
 .page-title__heading {
   color: $color-text--invert;
+  @include text-shadow;
 }
 
