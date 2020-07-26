@@ -8,7 +8,7 @@
   width: 100%;
   @include container-padded;
   @include margin-auto;
-  padding: $grid-padding;
+  padding: $spacing-lg $grid-padding;
 }
 
 .site-header__logo-link {

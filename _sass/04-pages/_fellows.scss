@@ -55,3 +55,26 @@
   @include small;
   display: inline;  
 }
+
+.travel-images {
+  @include mq($md) {
+    columns: 2;
+    column-gap: $spacing-lg;
+  }
+
+  @include mq($xxl) {
+    columns: 3;
+  }
+}
+
+.travel-images__img {
+  display: block;
+  margin-bottom: $grid-padding;
+
+  @include mq($md) {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    margin-bottom: $spacing-lg;
+  }
+}

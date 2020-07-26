@@ -13,32 +13,30 @@
     </figure>
 
     <main class="main--fellow">
-      <div class="fellow-profile">
-        <figure class="fellow-profile__img">
-          <img src="{{ site.baseurl }}/images/profiles/{{ page.slug }}.jpg" alt="{{ page.title }}" width="280">
-        </figure>
+      <div class="container">
+        <div class="fellow-profile">
+          <figure class="fellow-profile__img">
+            <img src="{{ site.baseurl }}/images/profiles/{{ page.slug }}.jpg" alt="{{ page.title }}" width="280">
+          </figure>
 
-        <div class="fellow-profile__text">
-          <p class="smallcaps">Project</p>
-          <h2>{{ page.project }}</h2>
+          <div class="fellow-profile__text">
+            <p class="smallcaps">Project</p>
+            <h2>{{ page.project }}</h2>
 
-          {% if page.countries %}
-            <ul class="fellow-countries">
-              {% for country in page.countries %}
-                <li class="fellow-country">{{ country }}</li>{% unless forloop.last %},{% endunless %}
-              {% endfor %}
-            </ul>
-          {% endif %}
+            {% if page.countries %}
+              <ul class="fellow-countries">
+                {% for country in page.countries %}
+                  <li class="fellow-country">{{ country }}</li>{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+              </ul>
+            {% endif %}
 
-          {{ content }}
+            {{ content }}
+          </div>
         </div>
       </div>
 
-      {% for image in site.static_files %}
-        {% if image.path contains 'travel' and image.name contains page.slug %}
-          <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }} traveling with the Watson Foundation" />
-        {% endif %}
-      {% endfor %}
+    {% include travel-images.html %}
 
     {% include tease-grid.html %}
 
