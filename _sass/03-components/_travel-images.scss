@@ -12,11 +12,13 @@
 
 .travel-images__figure {
   display: block;
+  width: 100%;
   margin-bottom: 0;
   padding-bottom: $grid-padding;
 
   @include mq($md) {
-    padding-bottom: $spacing-lg;
+    display: inline-block;
+    padding-bottom: 1.5rem;
   }
 
   &.js-inview {
