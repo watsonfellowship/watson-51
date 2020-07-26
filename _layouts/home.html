@@ -7,13 +7,17 @@
 
     <figure class="page-hero" style="background-image: url({{ site.baseurl }}/images/homepage-map.png);">
       <div class="page-title">
-        <h1 class="page-title__heading">{{ site.title }}</h1>
+        <div class="container">
+          <h1 class="page-title__heading">{{ site.title }}</h1>
+        </div>
       </div>
     </figure>
 
     <main class="main--home">
-      <div class="home-content container">
-        {{ content }}        
+      <div class="container">
+        <div class="home-content">
+          {{ content }}
+        </div>
       </div>
 
       {% include tease-grid.html %}

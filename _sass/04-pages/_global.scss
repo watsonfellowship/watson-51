@@ -65,13 +65,13 @@ main {
 
 
 .page-title {
-  @include container-padded;
-  @include margin-auto;
-  padding-bottom: $spacing-lg;
+  padding: 0 $grid-padding $spacing-lg;
   width: 100%;
+  background: linear-gradient(0deg, rgba($color-black,.25), transparent);
 }
 
 .page-title__heading {
   color: $color-text--invert;
+  @include text-shadow;
 }
 
