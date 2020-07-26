@@ -1,0 +1,6 @@
+{% assign destination = include.destination | downcase | replace: " ", "-" %}
+{% assign destinationName = include.destination %}
+
+<div class="map__destination map__destination--{{ destination }}">
+  {% include svg/marker.svg %}
+</div>
