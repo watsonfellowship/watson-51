@@ -9,8 +9,6 @@ school: Carleton College
 
 project: "Food Insecurity Across the Globe"
 
-quote: 
-
 countries:
   - France
   - Madagascar

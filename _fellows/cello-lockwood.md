@@ -9,8 +9,6 @@ school: Whitman College
 
 project: "Economics & Environment in the Equine World"
 
-quote: 
-
 countries:
   - Australia
   - Jordan

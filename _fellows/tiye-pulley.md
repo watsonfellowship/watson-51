@@ -9,8 +9,6 @@ school: Swarthmore College
 
 project: "Skateboarding and its Artistic Outputs"
 
-quote: 
-
 countries:
   - Japan
   - Ethiopia

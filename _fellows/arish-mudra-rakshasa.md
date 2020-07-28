@@ -9,8 +9,6 @@ school: Earlham College
 
 project: "Solidarity Amidst a Pandemic: Communities Uniting Around HIV/AIDS"
 
-quote: 
-
 countries:
   - Australia
   - Chile

@@ -9,8 +9,6 @@ school: Wellesley College
 
 project: "Coastal-Based Boats: Connections to the Sea"
 
-quote: 
-
 countries:
   - Greece
   - Australia

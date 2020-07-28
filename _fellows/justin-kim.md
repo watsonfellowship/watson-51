@@ -9,8 +9,6 @@ school: Wesleyan University
 
 project: "Identity, Erasure, and Belonging in Korean Diasporas"
 
-quote: 
-
 countries:
   - Argentina
   - Mexico

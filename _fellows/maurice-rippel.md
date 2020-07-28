@@ -9,8 +9,6 @@ school: Haverford College
 
 project: "Barbershop Talk: Storytelling and Debate"
 
-quote: 
-
 countries:
   - Colombia
   - Chile

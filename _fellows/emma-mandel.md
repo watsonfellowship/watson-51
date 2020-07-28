@@ -9,8 +9,6 @@ school: Williams College
 
 project: "Beyond Language: Exploring Female Experience Through Theatrical Expression"
 
-quote: 
-
 countries:
   - India
   - Nepal

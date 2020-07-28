@@ -9,8 +9,6 @@ school: Pomona College
 
 project: "Movement and Self"
 
-quote: 
-
 countries:
   - Scotland
   - France

@@ -9,8 +9,6 @@ school: Middlebury College
 
 project: "Female Empowerment in Mountain Communities"
 
-quote: 
-
 countries:
   - India
   - Nepal

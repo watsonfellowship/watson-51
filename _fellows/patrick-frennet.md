@@ -9,8 +9,6 @@ school: Amherst College
 
 project: "The Human Side of AI and Automation"
 
-quote: 
-
 countries:
   - Estonia
   - Latvia

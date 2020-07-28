@@ -9,8 +9,6 @@ school: Lawrence University
 
 project: "Traditional Music and Authenticity"
 
-quote: 
-
 countries:
   - China
   - Norway

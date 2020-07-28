@@ -9,8 +9,6 @@ school: Wheaton College
 
 project: "Exploring Narratives of Queer Filmmakers"
 
-quote: 
-
 countries:
   - Mexico
   - Puerto Rico

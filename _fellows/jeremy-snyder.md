@@ -9,8 +9,6 @@ school: Pomona College
 
 project: "How Rivers Shape the World"
 
-quote: 
-
 countries:
   - Ecuador
   - Peru

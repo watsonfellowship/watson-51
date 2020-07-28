@@ -9,8 +9,6 @@ school: Reed College
 
 project: "Making Comics Together"
 
-quote: 
-
 countries:
   - Indonesia
   - Singapore

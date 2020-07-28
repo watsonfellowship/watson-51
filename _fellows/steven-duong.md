@@ -9,8 +9,6 @@ school: Grinnell College
 
 project: "Freshwater Fish and the Poetry of Containment"
 
-quote: 
-
 countries:
   - Malawi
   - China

@@ -9,8 +9,6 @@ school: Davidson College
 
 project: "The Future is Female: Examining STEM Gender Disparities"
 
-quote: 
-
 countries:
   - Trinidad and Tobago
   - Denmark

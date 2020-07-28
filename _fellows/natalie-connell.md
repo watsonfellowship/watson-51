@@ -9,8 +9,6 @@ school: Davidson College
 
 project: "Perspectives on End-of-Life Care"
 
-quote: 
-
 countries:
   - Ecuador
   - Peru
