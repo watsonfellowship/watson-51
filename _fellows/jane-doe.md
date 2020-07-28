@@ -7,18 +7,14 @@ email: jane.doe@gmail.com
 
 school: Columbia University
 
-project: Curabitur blandit tempus porttitor
-
-quote: Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+project: "Curabitur blandit tempus porttitor"
 
 countries:
   - Brazil
   - Spain
   - Thailand
-  - Kenya
 
 continents:
-  - Africa
   - Asia
   - Europe
   - South America
