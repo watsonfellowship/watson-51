@@ -8,7 +8,7 @@ Color variables
 $color-black: #000;
 $color-white: #fff;
 
-$color-gray: #878787;
+$color-gray: #777777;
 $color-gray-dark: #1c1c1c;
 $color-gray-light: #f5f4f4;
 
@@ -75,10 +75,10 @@ $font-size-h2: $font-size-base*2;
 $font-size-h3: $font-size-base*1.5; 
 $font-size-h4: $font-size-base*1.2; 
 $font-size-h5: $font-size-base; 
-$font-size-h6: $font-size-base*0.8;
+$font-size-h6: $font-size-base*0.85;
 
 $font-size-p: $font-size-base;
-$font-size-small: $font-size-base*0.8;
+$font-size-small: $font-size-base*0.85;
 
 $font-size-caption: $font-size-small;
 
@@ -89,6 +89,7 @@ $line-height-body: $line-height-base;
 $line-height-p: $line-height-base;
 $line-height-heading: $line-height-small;
 
+$font-weight-light: 300;
 $font-weight-regular: 500;
 $font-weight-medium: 600;
 $font-weight-bold: 800;
