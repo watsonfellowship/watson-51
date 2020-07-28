@@ -65,11 +65,14 @@
 
 .tease-text__name {
   @include heading-4;
+  font-weight: $font-weight-regular;
   margin-bottom: $spacing-xxs;
   font-family: $font-family-sans;
 }
 
 .tease-text__school {
-  margin-bottom: 0;
+  @include small;
+  font-family: $font-family-serif;
   line-height: $line-height-small;
+  margin-bottom: 0;
 }
