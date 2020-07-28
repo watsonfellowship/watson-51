@@ -7,12 +7,13 @@ email: jane.doe@gmail.com
 
 school: Columbia University
 
-project: "Curabitur blandit tempus porttitor"
+project: "Cheese: My Lifelong Passion"
 
 countries:
   - Brazil
   - Spain
   - Thailand
+  - France
 
 continents:
   - Asia
@@ -25,4 +26,4 @@ Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut ferm
 
 Nulla vitae elit libero, a augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
-Curabitur blandit tempus porttitor. Etiam porta sem malesuada magna mollis euismod. Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+Jane loves to travel and also loves cheese.
