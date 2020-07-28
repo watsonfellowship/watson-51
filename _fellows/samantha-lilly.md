@@ -9,8 +9,6 @@ school: University of Puget Sound
 
 project: "The Dialectic of Darkness and Light: Suicidality Across Cultures"
 
-quote: 
-
 countries:
   - The Netherlands
   - France

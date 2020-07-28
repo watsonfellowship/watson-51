@@ -9,8 +9,6 @@ school: Bowdoin College
 
 project: 'Defining Justice: A Family Affair'
 
-quote: 
-
 countries:
   - Norway
   - New Zealand

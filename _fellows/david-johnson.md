@@ -9,8 +9,6 @@ school: "Sewanee: University of the South"
 
 project: "Transitional Justice: Can A Nation Reconcile With Their Past?"
 
-quote: 
-
 countries:
   - United Kingdom
   - Ireland

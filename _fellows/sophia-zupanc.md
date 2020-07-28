@@ -9,8 +9,6 @@ school: Wellesley College
 
 project: "Art, Science, and Alchemy: Striking the Balance Between Curing and Healing in Modern Medicine"
 
-quote: 
-
 countries:
   - Greece
   - United Kingdom

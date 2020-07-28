@@ -9,8 +9,6 @@ school: College of the Atlantic
 
 project: "Violence across cultures and ways of healing"
 
-quote: 
-
 countries:
   - Argentina
   - Tunisia

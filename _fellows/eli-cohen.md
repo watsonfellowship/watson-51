@@ -9,8 +9,6 @@ school: Pomona College
 
 project: "Blurred Realities: Sociopolitics of Digitally Networked Life"
 
-quote: 
-
 countries:
   - India
   - Nepal

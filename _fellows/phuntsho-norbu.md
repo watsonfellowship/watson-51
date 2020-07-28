@@ -9,8 +9,6 @@ school: Wheaton College
 
 project: "Drones in Rural Communities"
 
-quote: 
-
 countries:
   - Tanzania
   - Mongolia

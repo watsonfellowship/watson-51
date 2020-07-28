@@ -9,8 +9,6 @@ school: Union College
 
 project: "Poignant Nostalgia: Architecture of Abandoned Spaces"
 
-quote: 
-
 countries:
   - China
   - Japan

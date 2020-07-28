@@ -9,8 +9,6 @@ school: Bowdoin College
 
 project: "The Street Retold: Stories of Homeless Community Empowerment"
 
-quote: 
-
 countries:
   - UK
   - Denmark

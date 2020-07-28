@@ -9,8 +9,6 @@ school: Bowdoin College
 
 project: "Setting the Stage: Healing Through Performing Arts"
 
-quote: 
-
 countries:
   - Australia
   - South Korea

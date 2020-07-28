@@ -9,8 +9,6 @@ school: Wesleyan University
 
 project: "Island Innovation"
 
-quote: 
-
 countries:
   - Samoa
   - Fiji

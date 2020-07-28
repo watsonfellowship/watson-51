@@ -9,8 +9,6 @@ school: Hamilton College
 
 project: "Nature-Based Therapeutic Practices"
 
-quote: 
-
 countries:
   - Australia
   - New Zealand

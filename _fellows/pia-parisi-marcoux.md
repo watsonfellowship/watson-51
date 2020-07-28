@@ -9,8 +9,6 @@ school: Wheaton College
 
 project: "DIY Community: Exploring Musical Subcultures"
 
-quote: 
-
 countries:
   - Canada
   - Mexico

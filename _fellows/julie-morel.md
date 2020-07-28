@@ -9,8 +9,6 @@ school: Vassar College
 
 project: "Cultural Traditions during Pregnancy, Birth, and the Postpartum Period"
 
-quote: 
-
 countries:
   - Guatemala
   - Mexico

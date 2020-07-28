@@ -9,8 +9,6 @@ school: Rice University
 
 project: "Saudade: Caregiving and Self for the Children of Immigrants"
 
-quote: 
-
 countries:
   - UK
   - Norway

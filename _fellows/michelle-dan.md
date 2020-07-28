@@ -9,8 +9,6 @@ school: California Institute of Technology
 
 project: "Offbeat and Upbeat in the Anthropocene"
 
-quote: 
-
 countries:
   - Israel
   - Kenya
