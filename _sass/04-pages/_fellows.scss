@@ -50,10 +50,14 @@
 .fellow-countries {
   @include ul-null;
   line-height: $line-height-small;
-  margin-bottom: $spacing-section;
+  margin-bottom: 0;
 }
 
 .fellow-country {
   @include small;
   display: inline;  
+}
+
+.fellow-email {
+    margin: $spacing-lg 0 $spacing-xxl;
 }
