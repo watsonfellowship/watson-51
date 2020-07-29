@@ -5,15 +5,27 @@
 
 .map__background {
   display: block;
+  width: 100%;
 }
 
 .map__destination {
   position: absolute;
   top: 0;
   left: 0;
+  width: 1.75%;
+
+  svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    // stroke: $color-white;
+    // stroke-width: 1;
+    fill: rgba($color-accent,.5);
+    // mix-blend-mode: multiply;
+  }
 
   &--australia {
-    top: 72%;
+    top: 71%;
     left: 85%;
   }
 
@@ -28,29 +40,29 @@
   }
 
   &--chile {
-    top: 79%;
-    left: 26.8%;
+    top: 77%;
+    left: 26.5%;
   }
 
   &--costa-rica {
-    top: 51%;
-    left: 23.4%;
+    top: 49.5%;
+    left: 23.2%;
   }
 
   &--england,
   &--uk {
-    top: 23.8%;
+    top: 22%;
     left: 47%;
   }
 
   &--france {
-    top: 28%;
+    top: 26%;
     left: 48%;
   }
 
   &--hungary {
-    top: 27.8%;
-    left: 53%;
+    top: 26%;
+    left: 52.7%;
   }
 
   &--india {
@@ -59,89 +71,82 @@
   }
 
   &--italy {
-    top: 31%;
-    left: 50.7%;
+    top: 29.2%;
+    left: 50.8%;
   }
 
   &--japan {
-    top: 35.7%;
+    top: 33.5%;
     left: 86.5%;
   }
 
   &--madagascar {
-    top: 67%;
-    left: 60.5%;
+    top: 65.5%;
+    left: 60.4%;
   }
 
   &--malta {
-    top: 35.9%;
-    left: 51.5%;
+    top: 34%;
+    left: 51%;
   }
 
   &--nepal {
-    top: 40.5%;
+    top: 38.7%;
     left: 71%;
   }
 
   &--new-zealand {
-    top: 83%;
+    top: 81%;
     left: 96%;
   }
 
   &--norway {
-    top: 14.5%;
-    left: 49.7%;
+    top: 13%;
+    left: 49.5%;
   }
 
   &--paraguay {
-    top: 68.6%;
+    top: 68%;
     left: 30.5%;
   }
 
   &--peru {
-    top: 61%;
+    top: 60%;
     left: 25.5%;
   }
 
   &--rwanda {
-    top: 57.8%;
-    left: 55.8%;
+    top: 55.5%;
+    left: 55.7%;
   }
 
   &--south-africa {
-    top: 74%;
-    left: 53.6%;
+    top: 73%;
+    left: 53.5%;
   }
 
   &--south-korea {
-    top: 35.8%;
-    left: 83.8%;
+    top: 33.5%;
+    left: 83.5%;
   }
 
   &--scotland {
-    top: 18.5%;
-    left: 46.2%;
+    top: 17%;
+    left: 46%;
   }
 
   &--spain {
-    top: 33%;
+    top: 31%;
     left: 46%;
   }
 
   &--switzerland {
-    top: 28.5%;
-    left: 49.8%;
+    top: 26%;
+    left: 49.5%;
   }
 
   &--thailand {
-    top: 48%;
+    top: 46%;
     left: 76%;
-  }
-
-  svg {
-    display: block;
-    stroke: $color-white;
-    stroke-width: 1;
-    fill: $color-accent;
   }
 }
