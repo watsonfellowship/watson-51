@@ -11,7 +11,7 @@ project: "Art, Science, and Alchemy: Striking the Balance Between Curing and Hea
 
 countries:
   - Greece
-  - United Kingdom
+  - UK
   - India
   - Singapore
   - New Zealand
