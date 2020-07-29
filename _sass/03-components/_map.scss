@@ -20,13 +20,18 @@
     display: block;
     // stroke: $color-white;
     // stroke-width: 1;
-    fill: rgba($color-accent,.5);
-    // mix-blend-mode: multiply;
+    fill: rgba($color-accent, 0.6);
+    mix-blend-mode: darken;
   }
 
   &--australia {
     top: 71%;
     left: 85%;
+  }
+
+  &--austria {
+    top: 25.5%;
+    left: 51.5%;
   }
 
   &--argentina {
@@ -39,14 +44,44 @@
     left: 32%;
   }
 
+  &--cambodia {
+    top: 48.5%;
+    left: 77%;
+  }
+
+  &--canada {
+    top: 20%;
+    left: 18%;
+  }
+
+  &--china {
+    top: 38%;
+    left: 78%;
+  }
+
   &--chile {
     top: 77%;
     left: 26.5%;
   }
 
+  &--colombia {
+    top: 54%;
+    left: 26%;
+  }
+
   &--costa-rica {
     top: 49.5%;
     left: 23.2%;
+  }
+
+  &--denmark {
+    top: 18.3%;
+    left: 49.8%;
+  }
+
+  &--ecuador {
+    top: 55.8%;
+    left: 24.5%;
   }
 
   &--england,
@@ -55,9 +90,29 @@
     left: 47%;
   }
 
+  &--ethiopia {
+    top: 51%;
+    left: 58.5%;
+  }
+
   &--france {
     top: 26%;
     left: 48%;
+  }
+
+  &--germany {
+    top: 24%;
+    left: 50%;
+  }
+
+  &--greece {
+    top: 32%;
+    left: 53.5%;
+  }
+
+  &--greenland {
+    top: 5%;
+    left: 35%;
   }
 
   &--hungary {
@@ -65,9 +120,29 @@
     left: 52.7%;
   }
 
+  &--iceland {
+    top: 8.5%;
+    left: 42%;
+  }
+
   &--india {
     top: 45%;
     left: 69%;
+  }
+
+  &--indonesia {
+    top: 56%;
+    left: 81%;
+  }
+
+  &--ireland {
+    left: 45%;
+    top: 21%;
+  }
+
+  &--israel {
+    top: 37.2%;
+    left: 57.1%;
   }
 
   &--italy {
@@ -80,14 +155,39 @@
     left: 86.5%;
   }
 
+  &--jordan {
+    top: 37.5%;
+    left: 57.5%;
+  }
+
   &--madagascar {
     top: 65.5%;
     left: 60.4%;
   }
 
+  &--malaysia {
+    top: 52.3%;
+    left: 76.1%;
+  }
+
   &--malta {
     top: 34%;
     left: 51%;
+  }
+
+  &--mauritius {
+    top: 66%;
+    left: 63.6%;
+  }
+
+  &--morocco {
+    top: 37%;
+    left: 45.5%;
+  }
+
+  &--myanmar {
+    top: 44%;
+    left: 74.6%;    
   }
 
   &--nepal {
@@ -111,13 +211,33 @@
   }
 
   &--peru {
-    top: 60%;
+    top: 61%;
     left: 25.5%;
+  }
+
+  &--philippines {
+    top: 49%;
+    left: 82.3%;
+  }
+
+  &--poland {
+    top: 22.5%;
+    left: 52.5%;    
+  }
+
+  &--portugal {
+    top: 32.5%;
+    left: 44.8%;
   }
 
   &--rwanda {
     top: 55.5%;
     left: 55.7%;
+  }
+
+  &--singapore {
+    top: 53.8%;
+    left: 76.6%;
   }
 
   &--south-africa {
@@ -137,7 +257,7 @@
 
   &--spain {
     top: 31%;
-    left: 46%;
+    left: 46.5%;
   }
 
   &--switzerland {
@@ -145,8 +265,28 @@
     left: 49.5%;
   }
 
+  &--tanzania {
+    top: 59.5%;
+    left: 57.4%;
+  }
+
   &--thailand {
     top: 46%;
     left: 76%;
+  }
+
+  &--the-netherlands {
+    top: 21.5%;
+    left: 48.7%;
+  }
+
+  &--uganda {
+    top: 54.5%;
+    left: 56.5%;
+  }
+
+  &--wales {
+    top: 21%;
+    left: 46%;
   }
 }
