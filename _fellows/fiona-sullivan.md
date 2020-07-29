@@ -18,7 +18,6 @@ countries:
   - Greenland
   - Ireland
   - The Netherlands
-  - Germany
   - Australia
   - Argentina
 

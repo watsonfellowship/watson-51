@@ -10,7 +10,7 @@ school: "Sewanee: University of the South"
 project: "Transitional Justice: Can A Nation Reconcile With Their Past?"
 
 countries:
-  - United Kingdom
+  - UK
   - Ireland
   - Germany
   - the Netherlands
