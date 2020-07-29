@@ -14,7 +14,6 @@ countries:
   - Japan
   - Malaysia
   - Singapore
-  - Japan
   - Bulgaria
 
 continents:
