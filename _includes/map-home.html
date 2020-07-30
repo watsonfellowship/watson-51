@@ -1,0 +1,13 @@
+<div class="map map--home">
+  <div class="map--home__wrapper">
+  
+    <img src="{{ site.baseurl }}/images/map.png" alt="" class="map__background">
+
+    {% for fellow in site.fellows %}
+      {% for country in fellow.countries %}
+        {% include map-destination.html destination=country  %}
+      {% endfor %}
+    {% endfor %}
+    
+  </div>
+</div>

@@ -22,6 +22,7 @@ html {
   }
 
 body {
+  background-color: $color-gray-dark;
   @include body-text;
   position: relative;
 }
@@ -48,14 +49,14 @@ body {
 }
 
 main {
-  margin-top: $spacing-section;
-  margin-bottom: $spacing-section;
-  padding: 0 $grid-padding;
+  position: relative;
+  background-color: $color-white;
+  padding: $spacing-section $grid-padding;
 }
 
 .page-hero {
   position: relative;
-  min-height: 75vh;
+  min-height: 70vh;
   display: flex;
   align-items: flex-end;
   background-position: center center;
