@@ -7,7 +7,10 @@
 
     {% include header.html %}
 
-    <figure class="page-hero js-inview" style="background-image: url({{ site.baseurl }}/images/homepage-map.png);">
+    <figure class="page-hero js-inview">
+
+      {% include map-home.html %}
+
       <div class="page-title">
         <div class="container">
           <h1 class="page-title__heading">{{ site.title }}</h1>

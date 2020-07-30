@@ -1,12 +1,12 @@
 .site-footer {
+  position: relative;
   background-color: $color-accent;
   color: $color-text--invert;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  padding: $spacing-xl;
-  margin-top: $spacing-xxl;
+  padding: $spacing-xxl $spacing-xl;
 
   small {
     margin-bottom: 0;

@@ -1,6 +1,40 @@
 .map {
   position: relative;
   margin-bottom: $spacing-lg;
+
+  &--home {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+  }
+}
+
+.map--home__wrapper {
+  position: relative;
+  transform-origin: top;
+
+  @include mq(0, $md) {
+    @media (orientation: portrait) {
+      transform: scale(3);
+    }
+  }
+
+  @include mq($md, $lg) {
+    @media (orientation: portrait) {
+      transform: scale(2);
+    }
+
+    @media (orientation: landscape) {
+      transform: scale(1.35);
+    }
+  }
+
+  @include mq($lg, $xl) {
+    transform: scale(1.5);
+  }
 }
 
 .map__background {
@@ -18,8 +52,6 @@
     width: 100%;
     height: auto;
     display: block;
-    // stroke: $color-white;
-    // stroke-width: 1;
     fill: rgba($color-accent, 0.6);
     mix-blend-mode: darken;
   }
