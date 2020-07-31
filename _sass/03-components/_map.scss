@@ -33,7 +33,13 @@
   }
 
   @include mq($lg, $xl) {
-    transform: scale(1.5);
+    @media (orientation: portrait) {
+      transform: scale(2);
+    }
+
+    @media (orientation: landscape) {
+      transform: scale(1.5);
+    }
   }
 }
 
