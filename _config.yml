@@ -2,6 +2,7 @@ title: 'The 51st Class of Thomas J. Watson Fellows'
 description: 
 
 sass:
+  style: compressed
   load_paths:
     - _sass
 
