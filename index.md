@@ -5,6 +5,6 @@ title: Watson Microsite Homepage
 
 ## Meet the fellows
 
-Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla.
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Nulla vitae libero, a pharetra augue. Curabitur blandit tempus porttitor.
+Founded in 1968, the Watson is a rare window of time after college and pre-career for promising undergraduates to engage their deepest interests on a world scale. Chosen from select American colleges, fellows conceive original projects, execute them independently outside of the United States for one year and embrace the ensuing journey. They decide where to go, who to meet and when to change course The program produces a year of personal insight, perspective and confidence that contributes deeply to fellows’ becoming more humane and effective leaders in the world community.
+ 
+The 51st class came from 6 countries and 18 states. They traveled to X countries exploring topics ranging from artificial intelligence to music subcultures; from food insecurity to island innovation; from neonatal to end-of-life care. These are their journeys.
