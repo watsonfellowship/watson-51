@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Watson Microsite Homepage
+title: Home
 ---
 
 ## Meet the fellows
