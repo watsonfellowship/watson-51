@@ -13,3 +13,14 @@ Animate all properties
   transition-timing-function: $customEase;
 }
 
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+    transform-origin: bottom;
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
