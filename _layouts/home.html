@@ -31,5 +31,28 @@
 
     {% include footer.html %}
 
+
+    <script>
+    // Preload all hero images
+    $(document).ready(function() {
+      var $container = $('.preload-img');
+      var gifs = new Array();
+
+      {% assign directory_url = 'images' | prepend: site.baseurl %}
+      {% for file in site.static_files %}
+        {% if file.path contains directory_url and file.path contains "hero" %}
+            {% assign type = file.path | split: '/' | last | split: '.' | last %}
+            {% if type == "jpg" or type == "jpeg" or type == "png" %}
+              gifs.push('url({{ file.path }}) no-repeat -9999px -9999px');
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      $container.css(
+        'background', gifs
+      );
+    });
+    </script>
+
   </body>
 </html>
