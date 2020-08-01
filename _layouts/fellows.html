@@ -5,7 +5,8 @@
   <body class="fellow">
     {% include header.html %}
 
-    <figure class="page-hero js-inview" style="background-image: url({{ site.baseurl }}/images/hero/{{ page.slug }}-hero.jpg);">
+    <figure class="page-hero js-inview">
+      <img src="{{ site.baseurl }}/images/hero/{{ page.slug }}-hero.jpg" class="page-hero__img" alt="{{ page.title }}">
       <div class="page-title">
         <div class="container">
           <h1 class="page-title__heading fellow-name">{{ page.title }}</h1>
