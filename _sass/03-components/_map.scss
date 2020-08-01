@@ -41,6 +41,16 @@
       transform: scale(1.5);
     }
   }
+
+  .map__destination {
+    opacity: 0;
+  
+    @for $i from 1 through 100 {
+      &:nth-child( #{$i} ) {
+        animation: fadeIn 2s #{$i * 0.025}s $customEase 1 forwards;
+      }
+    }
+  }
 }
 
 .map__background {
