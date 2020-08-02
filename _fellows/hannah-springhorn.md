@@ -25,4 +25,4 @@ continents:
 
 ---
 
-I spent eight months studying the relationship between food culture and body image in both established and new running communities around the world. I am learning from coaches, athletes, nutritionists, and body image activists in order to better understand what lays the social groundwork for cultures of disordered eating within these athletic communities, and what steps we can take to promote self-empowerment and a new definition of health. 
+I spent eight months studying the relationship between food culture and body image in both established and new running communities around the world. I learned from coaches, athletes, nutritionists, and body image activists in order to better understand what lays the social groundwork for cultures of disordered eating within these athletic communities, and what steps we can take to promote self-empowerment and a new definition of health. 
