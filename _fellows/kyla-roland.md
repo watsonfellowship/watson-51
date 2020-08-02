@@ -7,13 +7,11 @@ email: kylaroland@gmail.com
 
 school: Davidson College
 
-project: "The Future is Female: Examining STEM Gender Disparities"
+project: "The Future is Female: How Sociocultural Factors Influence Female Participation in STEM"
 
 countries:
   - Trinidad and Tobago
-  - Denmark
   - Norway
-  - Sweden
   - South Africa
 
 continents:
@@ -23,4 +21,4 @@ continents:
 
 ---
 
-Globally, women account for less than a third of all science, technology, engineering and math (STEM) professionals. I investigated how a variety of external factors contribute to these gender disparities and identify methods for early intervention that could help bridge the gender gap.
+While women account for roughly 1/3 of all STEM professionals globally, the demand for the STEM workforce is constantly growing. In Trinidad, Norway and South Africa I worked within a variety of learning environments and with communities to understand local barriers to women in STEM. As a future STEM professional, I hope to use the knowledge and experiences I garnered to create a more welcoming and supportive environment for girls, women, and other marginalized folks to engage with STEM. 
