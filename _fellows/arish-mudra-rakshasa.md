@@ -29,4 +29,4 @@ continents:
 
 ---
 
-My Watson Year offers a crucial break from a microscopic view of HIV. I plan to learn about creative community-centred interventions to combat HIV/AIDS from both community-run healthcare organisations and larger, institutional responses to the HIV pandemic. Through this intentional exploration, I also hope to get a sense of the solidarity and fellowship that arises from – and despite – the suffering that this pandemic has caused among the hardest-hit communities.
+My Watson Year offered a crucial break from a microscopic view of HIV. I learned about creative community-centred interventions to combat HIV/AIDS from both community-run healthcare organisations and larger, institutional responses to the HIV pandemic. Through this intentional exploration, I gained a sense of the solidarity and fellowship that arises from – and despite – the suffering that this pandemic has caused among the hardest-hit communities.
