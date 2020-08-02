@@ -27,8 +27,4 @@ continents:
 
 ---
 
-Climate change is increasing wildfire frequency and severity
-  - causing ecological shifts and societal damage. Many nations are not prepared for these trends
-  - others mis-frame the issue as a human versus nature conflict. I investigated fire history
-  - ecology
-  - and management in fire-prone countries. I aimed to understand the feasibility of balancing ecological needs against societal fears.
+Wildfires are inextricably linked to humans, landscapes and their interactions. With almost half of Earth’s ecosystems dependent on fire, ignoring or suppressing fire’s role is not an option. My Watson project was dedicated to understanding the governance, science, and outlook for wildfires in various social contexts. I surveyed communities and institutions to grasp how wildfire resiliency, for both ecosystems and human values, is being built in an era of climate change.
