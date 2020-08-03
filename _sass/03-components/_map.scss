@@ -1,5 +1,6 @@
 .map {
   position: relative;
+  background-color: #cedddd;
   margin-bottom: $spacing-lg;
 
   &--home {
@@ -39,6 +40,26 @@
 
     @media (orientation: landscape) {
       transform: scale(1.5);
+    }
+  }
+
+  @include mq($xl, $xxl) {
+    @media (orientation: portrait) {
+      transform: scale(1.5);
+    }
+
+    @media (orientation: landscape) {
+      transform: scale(1.125);
+    }
+  }
+
+  @include mq($xxl) {
+    @media (orientation: portrait) {
+      transform: scale(1.5);
+    }
+
+    @media (orientation: landscape) {
+      transform: scale(1);
     }
   }
 
