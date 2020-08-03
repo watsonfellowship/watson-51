@@ -21,4 +21,4 @@ continents:
 
 ---
 
-While women account for roughly 1/3 of all STEM professionals globally, the demand for the STEM workforce is constantly growing. In Trinidad, Norway and South Africa I worked within a variety of learning environments and with communities to understand local barriers to women in STEM. As a future STEM professional, I hope to use the knowledge and experiences I garnered to create a more welcoming and supportive environment for girls, women, and other marginalized folks to engage with STEM. 
+While women account for roughly one-third of all STEM professionals globally, the demand for the STEM workforce is constantly growing. In Trinidad, Norway and South Africa I worked within a variety of learning environments and with communities to understand local barriers to women in STEM. As a future STEM professional, I hope to use the knowledge and experiences I garnered to create a more welcoming and supportive environment for girls, women, and other marginalized folks to engage with STEM. 
