@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Leury Holguin
+title: Leury Gadiel Holguin
 
 email: leury.holguin@gmail.com
 
