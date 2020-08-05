@@ -28,4 +28,4 @@ continents:
 
 ---
 
-I explored organizations and projects that empower locals to participate in healthcare outreach and research. Engaging with workers and local community members I learned about the similarities and differences, successes and challenges, and cultures and customs that influence these initiatives.
+I explored organizations and projects that empower locals to participate in healthcare outreach and research. Engaging with workers and local community members, I learned about the similarities and differences, successes and challenges, and cultures and customs that influence these initiatives.
