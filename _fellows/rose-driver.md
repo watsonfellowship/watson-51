@@ -24,4 +24,4 @@ continents:
 
 ---
 
-Working alongside cartoonists in Yogyakarta, Singapore, Melbourne, Tokyo, and Berlin, I explore how these artists support one another and their communities. Through my own cartooning, I document the processes of making comics and sustaining one’s art and one’s self, acknowledging both the material needs of survival and the catharsis and companionship of creating together.
+Working alongside cartoonists in Yogyakarta, Singapore, Melbourne, Tokyo, and Berlin, I explored how these artists support one another and their communities. Through my own cartooning, I documented the processes of making comics and sustaining one’s art and one’s self, acknowledging both the material needs of survival and the catharsis and companionship of creating together.
