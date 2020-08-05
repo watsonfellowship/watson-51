@@ -22,4 +22,4 @@ continents:
 
 ---
 
-In my Watson year, I explored ways to cultivate the life of the body. I asked 'how do people and things move?' and 'what do physical movements communicate?' 'How can the body be trained as a medium for expression?' Through the study of Corporeal Mime, yoga, and the pre-expressive training philosophy in Theatre Anthropology, I look for ways to simplify, amplify, and clarify movement, to make thought and feeling visible and to render ordinary movement extraordinary.
+In my Watson year, I explored ways to cultivate the life of the body. I asked 'how do people and things move?' and 'what do physical movements communicate?' 'How can the body be trained as a medium for expression?' Through the study of Corporeal Mime, yoga, and the pre-expressive training philosophy in Theatre Anthropology, I looked for ways to simplify, amplify, and clarify movement, to make thought and feeling visible and to render ordinary movement extraordinary.
