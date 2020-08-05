@@ -3,7 +3,7 @@ layout: fellows
 
 title: Leury Holguin
 
-email: holguin_leury@wheatoncollege.edu
+email: leury.holguin@gmail.com
 
 school: Wheaton College
 
@@ -19,4 +19,4 @@ continents:
 
 ---
 
-Collaborating with international queer filmmakers, I spent this year shaping my artistic voice, exploring the processes that these filmmakers use to define and navigate their queer identities.
+This year I met and collaborated with queer filmmakers by participating in a film festival, taking on several roles on the production of independent projects, and shadowing executives of production companies. Recognizing queer as an identity, a stance, and/or an action, allowed me to explore the processes that these filmmakers use to define their voices and navigate their experiences.
