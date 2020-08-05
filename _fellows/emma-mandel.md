@@ -22,4 +22,4 @@ continents:
 
 ---
 
-What role can theatre play in women’s lives? Through viewership and participation, I explore how women use theatre to process, empower, and educate both themselves and others—most often in societies in which words, especially those spoken by women, are censored or suppressed. Working with teenage mothers and schoolchildren in India, former political prisoners in Morocco, and elderly Mizrahi populations in Israel, I immersed myself in community theatre made not by professional artists, without fancy stages, lights, or costumes, but always by people with a story to tell.
+What role can theatre play in women’s lives? Through viewership and participation, I explored how women use theatre to process, empower, and educate both themselves and others—most often in societies in which words, especially those spoken by women, are censored or suppressed. Working with teenage mothers and schoolchildren in India, former political prisoners in Morocco, and elderly Mizrahi populations in Israel, I immersed myself in community theatre made not by professional artists, without fancy stages, lights, or costumes, but always by people with a story to tell.
