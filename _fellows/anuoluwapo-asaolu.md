@@ -21,4 +21,4 @@ continents:
 
 ---
 
-I examined social health issues including alcoholism, immigration, gender-based violence, and racial trauma and saw how therapies based in performance are used as treatments to overcome silence and stigma.
+During my Watson year, I explored the ways traumatized and marginalized communities contextualize healing through theater and dance. I examined how taboo topics like suicide, alcoholism and genocide, are explored communally and individually. By observing practices and performances, I learned how artists use their platform to unsilence cultural stigmas. I began to understand the intricacies of performing arts as it pertains to communal healing.
