@@ -28,4 +28,4 @@ continents:
 
 ---
 
-I explored the relationship between the human singing voice and technology, and how this relationship impacts the continuity of the human voice in music and sound art. Travelling to communities that create new vocal music and sound art environments I explored why communities have cultivated these spaces for contemporary sonic experiences.
+I explored the relationship between the human singing voice and technology, and how this relationship impacts the continuity of the human voice in music and sound art. Travelling to communities that create new vocal music and sound art environments, I explored why communities have cultivated these spaces for contemporary sonic experiences.
