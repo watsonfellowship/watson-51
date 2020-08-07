@@ -3,7 +3,7 @@ layout: fellows
 
 title: Samantha Lilly
 
-email:  slilly@pugetsound.edu
+email: samantha.d.lilly@gmail.com
 
 school: University of Puget Sound
 
