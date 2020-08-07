@@ -3,7 +3,7 @@ layout: fellows
 
 title: David Alan Johnson
 
-email: johnsda0@sewanee.edu
+email: chiefdaj@gmail.com
 
 school: "Sewanee: University of the South"
 
