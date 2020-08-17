@@ -3,7 +3,7 @@ layout: fellows
 
 title: Julie Morel
 
-email: jumorel@vassar.edu
+email: jumorel@alum.vassar.edu 
 
 school: Vassar College
 
@@ -22,4 +22,4 @@ continents:
 
 ---
 
-I am engaging with mothers and birthing care providers to understand cultural practices, customs, and beliefs surrounding the perinatal period. By learning from midwives, traditional birth attendants, obstetricians, community health workers, NGOs, government officials, elders, pregnant women, mothers, and their partners, I am beginning to understand the roles that culture, spirituality, and family play in maternity care practices. While I am analyzing systemic healthcare barriers and institutions, I am choosing to center indigenous knowledge of ritual, plant medicine, and tradition.
+I engaged with mothers and birthing care providers to understand cultural practices, customs, and beliefs surrounding the perinatal period. By learning from midwives, traditional birth attendants, obstetricians, community health workers, NGOs, government officials, elders, pregnant women, mothers, and their partners, I began to understand the roles that culture, spirituality, and family play in maternity care practices. While I analyzed systemic healthcare barriers and institutions, I chose to center indigenous knowledge of ritual, plant medicine, and tradition.
