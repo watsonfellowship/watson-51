@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Julie Morel
+title: Julie Fleur Morel
 
 email: jumorel@alum.vassar.edu 
 
