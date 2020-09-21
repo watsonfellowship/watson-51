@@ -23,4 +23,4 @@ continents:
 
 ---
 
-I lived and explored Koreatowns. Through interviews and participant-observation, I aimed to get as close as possible to the community organizations and constituents of each town. I supplemented these experiences by meeting with related stakeholders including government officials, artists, religious leaders, and other enclaves that inform these distinct communities.
+As a Korean American immigrant, I grew up conflicted about my own identity-where I came from, where I was going, and where I belonged. Part ethnography, part oral history, part critical fabulation, I will spend my Watson year building a polyphonic portraiture of the Korean diasporic community through film. I will speak with and document those in the Korean diaspora with living memories of their displacement or emigration. My hope is to elevate Korean diasporic consciousness and raise questions about where we are heading. 
