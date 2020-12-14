@@ -23,4 +23,4 @@ In the modern world, we channel our almost every aspect of our lives through dig
 
 Most talk about technology concerns the bleeding edge: quantum computers, artificial intelligence, and satellite internet. While these endeavors make the headlines, technology far more mundane is what actually reshapes our world. From SIM cards to social media and ID systems to supply chains, I spent my Watson year examining the societal, political, and personal effects of the invisible technology that underpins, and increasingly dictates, everything we do.
 
-There’s a prevailing optimism that technology is always good, that our remaining problems just haven’t gotten the right upgrade, the newest gadget, or are still “offline.” My travels indicated otherwise, that technology and politics are always deeply intertwined and can no longer be understood without the other. 
+There’s a prevailing optimism that technology is always good, that our remaining problems just haven't gotten the right upgrade, the newest gadget, or are still "offline." My travels indicated otherwise, that technology and politics are always deeply intertwined and can no longer be understood without the other. 
