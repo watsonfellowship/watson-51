@@ -1,4 +1,5 @@
 .fellow-name-group {
+  margin-bottom: $spacing-xs;
   @include mq($md) {
     display: flex;
     align-items: flex-end;
@@ -27,7 +28,6 @@
   @include text-shadow;
   color: $color-text--invert;
   opacity: 0.75;
-  margin-top: $spacing-xs;
 }
 
 .fellow-profile {
