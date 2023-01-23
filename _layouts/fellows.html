@@ -9,8 +9,15 @@
       <img src="{{ site.baseurl }}/images/hero/{{ page.slug }}-hero.jpg" class="page-hero__img" alt="{{ page.title }}">
       <div class="page-title">
         <div class="container">
-          <h1 class="page-title__heading fellow-name">{{ page.title }}</h1>
-          <p class="fellow-school">{{ page.school }}</p>
+          <div class="fellow-name-group">
+            <h1 class="page-title__heading fellow-name">{{ page.title }}</h1>
+            {% if page.pronouns %}
+              <p class="fellow-pronouns">{{ page.pronouns }}</p>
+            {% endif %}
+          </div>
+          {% if page.school %}
+            <p class="fellow-school">{{ page.school }}</p>
+          {% endif %}
         </div>
       </div>
     </figure>

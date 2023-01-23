@@ -1,7 +1,26 @@
+.fellow-name-group {
+  margin-bottom: $spacing-xs;
+  @include mq($md) {
+    display: flex;
+    align-items: flex-end;
+    gap: $spacing-md;
+  }
+}
+
 .fellow-name {
   font-family: $font-family-sans;
   font-weight: $font-weight-regular;
-  margin-bottom: $spacing-xs;
+  margin-bottom: 0;
+}
+
+.fellow-pronouns {
+  @include text-shadow;
+  color: $color-text--invert;
+  opacity: 0.75;
+  margin-bottom: 0;
+  @include mq($md) {
+    margin-bottom: $spacing-xxs;
+  }
 }
 
 .fellow-school {
