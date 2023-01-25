@@ -5,7 +5,7 @@ title: Antonio Aguilar Cole
 
 email: ""
 
-school: ""
+school: "Bryn Mawr College"
 
 project: ""
 

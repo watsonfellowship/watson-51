@@ -7,7 +7,7 @@ pronouns: she/her/hers
 
 email: liana.merk@gmail.com 
 
-school: ""
+school: "California Institute of Technology"
 
 project: "Cultures Across Cultures"
 

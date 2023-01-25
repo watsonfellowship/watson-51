@@ -7,7 +7,7 @@ pronouns: he/him
 
 email: fontainejacobc@gmail.com
 
-school: ""
+school: "Rhodes College"
 
 project: "Fostering Environmentalism through Culture, Religion, and Policy"
 

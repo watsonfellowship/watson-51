@@ -7,7 +7,7 @@ pronouns: she/her/hers
 
 email: sarahvanasse2059@gmail.com
 
-school: ""
+school: "Union College"
 
 project: "Activism Within Female Empowerment"
 

@@ -7,7 +7,7 @@ pronouns: he/him/his
 
 email: jstein146@gmail.com
 
-school: ""
+school: "Haverford College"
 
 project: "Icy Affects: Mourning and Melting"
 

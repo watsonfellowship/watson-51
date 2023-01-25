@@ -7,7 +7,7 @@ pronouns: she/her
 
 email: eliamaniismail@gmail.com
 
-school: ""
+school: "Scripps College"
 
 project: "Imagining Alternatives: on National Writing, Film, and Justice"
 

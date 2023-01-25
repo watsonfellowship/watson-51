@@ -7,7 +7,7 @@ pronouns: she/her
 
 email: jiinjg@gmail.com
 
-school: ""
+school: "Hamilton College"
 
 project: "Recoding Literacy: Exploring the Computer Science Education Boom"
 
