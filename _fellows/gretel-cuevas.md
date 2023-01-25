@@ -7,7 +7,7 @@ pronouns: she/her
 
 email: tcuevasver@gmail.com
 
-school: ""
+school: "Bryn Mawr College"
 
 project: "Collective Stories Project"
 

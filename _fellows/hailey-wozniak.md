@@ -7,7 +7,7 @@ pronouns: she/her
 
 email: haileynoelwozniak@gmail.com 
 
-school: ""
+school: "Bowdoin College"
 
 project: "Common Threads: Fashioning a Self"
 

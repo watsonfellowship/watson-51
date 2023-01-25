@@ -7,7 +7,7 @@ pronouns: she/her/hers
 
 email: eoleisky@gmail.com
 
-school: ""
+school: "Bowdoin College"
 
 project: "Contextualizing Health"
 

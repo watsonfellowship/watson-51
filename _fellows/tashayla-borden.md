@@ -7,7 +7,7 @@ pronouns: she/her/hers
 
 email: tashayla.borden@gmail.com
 
-school: ""
+school: "Connecticut College"
 
 project: "Narrating Resilience: Black Women's Liberation Through Art"
 

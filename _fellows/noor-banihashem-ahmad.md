@@ -7,7 +7,7 @@ pronouns: she/her/hers
 
 email: noor.ba1997@gmail.com 
 
-school: ""
+school: "Bryn Mawr College"
 
 project: "Community Based Responses to Sexual Harm"
 

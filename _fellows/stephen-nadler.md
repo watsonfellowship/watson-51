@@ -7,7 +7,7 @@ pronouns: he/him
 
 email: snadler32@gmail.com
 
-school: ""
+school: "Union College"
 
 project: "Photographing Soccer: Community and Identity Across The World"
 

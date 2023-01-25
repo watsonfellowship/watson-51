@@ -7,7 +7,7 @@ pronouns: he/him
 
 email: athomasinbuxton@gmail.com 
 
-school: ""
+school: "Bowdoin College"
 
 project: "Navigating Collective Urban Spaces By Rail"
 

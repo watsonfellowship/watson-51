@@ -7,7 +7,7 @@ pronouns: she/her
 
 email: ssaghir2021@gmail.com
 
-school: ""
+school: "Haverford College"
 
 project: "Muslim not Monolith: storytelling journey to upend stereotypes"
 
