@@ -17,9 +17,9 @@ countries:
   - Singapore
   - Thailand
   - Ireland
-  - United Kingdon
+  - United Kingdom
   - Iceland
-  - Switzerland
+  - Sweden
   - Liechtenstein
   - Germany
   - Austria

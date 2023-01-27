@@ -16,7 +16,7 @@ countries:
   - Kenya
   - Malawi
   - The Netherlands
-  - Stockholm
+  - Sweden
   - Scotland
   - Australia
 

@@ -16,8 +16,8 @@ countries:
   - Romania
   - United Arab Emirates
   - Oman
-  - Kenia
-  - Ruanda
+  - Kenya
+  - Rwanda
   - India
   - Thailand
   - South Korea

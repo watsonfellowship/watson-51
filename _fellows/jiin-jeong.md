@@ -12,13 +12,13 @@ school: "Hamilton College"
 project: "Recoding Literacy: Exploring the Computer Science Education Boom"
 
 countries:
-  - UAE
+  - United Arab Emirates
   - Thailand
   - Singapore
   - Australia
   - Canada
   - Kenya
-  - Türkiye
+  - Turkey
   - Argentina
 
 ---
