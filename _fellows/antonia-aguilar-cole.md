@@ -9,7 +9,15 @@ school: "Bryn Mawr College"
 
 project: "Justice Warriors: Fighting for a Better World"
 
-countries: Puerto Rico, Brazil, Argentina, Uruguay, South Africa, Thailand, Vietnam, Germany
+countries:
+  - Puerto Rico
+  - Brazil
+  - Argentina
+  - Uruguay
+  - South Africa
+  - Thailand
+  - Vietnam
+  - Germany
 
 ---
 
