@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Antonio Aguilar Cole
+title: Antonia Aguilar Cole
 
 email: ""
 
