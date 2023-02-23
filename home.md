@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-## Home Page Header
+## Meet the Fellows
 
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo.
+Founded in 1968, the Watson is a rare window of time after college and pre-career for promising undergraduates to engage their deepest interests on a world scale. Chosen from select American colleges, fellows conceive original projects, execute them independently outside of the United States for one year and embrace the ensuing journey. They decide where to go, who to meet and when to change course. The program produces a year of personal insight, perspective and confidence that contributes deeply to fellows’ becoming more humane and effective leaders in the world community.
 
 Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
