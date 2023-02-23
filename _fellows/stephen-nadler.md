@@ -22,4 +22,4 @@ countries:
 
 ---
 
-I will immerse myself in soccer communities to learn, document, and share the social constructs, stories and experiences that exemplify soccer’s role in unifying fans and players. I will work with photographers, photo-journalists, non-profit organizations and researchers to gain perspective on soccer’s impact on players, fan groups, and national identity.
+I immersed myself in various soccer communities to learn, document, and share the social constructs, stories and experiences that exemplify soccer’s role in unifying fans and players. I collaborated with photographers, photo-journalists, non-profit organizations and researchers to gain perspective on soccer’s impact on players, fan groups, and national 
