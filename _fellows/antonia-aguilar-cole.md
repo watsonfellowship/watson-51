@@ -3,7 +3,7 @@ layout: fellows
 
 title: Antonia Aguilar Cole
 
-email: ""
+email: "acaguilarcole@gmail.com"
 
 school: "Bryn Mawr College"
 
