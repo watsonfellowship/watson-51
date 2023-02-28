@@ -23,4 +23,4 @@ countries:
 
 ---
 
-I explored notions of health and well-being as a function of culture, religion, politics, economy, and space. I saw how individuals understand their own health and wellness, and how this shapes personal habits, health seeking behaviors, and care provision in healthcare settings and daily life.
+Working alongside designers, filmmakers, and fashion experts, I immersed myself in emerging film and fashion capitals. I explored how clothing and film reflect the values and shifting identities of a place and its people. I investigated how clothing choices act as nonverbal cues that reveal profound personal and cultural histories.
