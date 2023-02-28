@@ -9,7 +9,7 @@ email: ssaghir2021@gmail.com
 
 school: "Haverford College"
 
-project: "Muslim not Monolith: storytelling journey to upend stereotypes"
+project: "Muslim not Monolith: Storytelling Journey to Upend Stereotypes"
 
 countries:
   - Canada
