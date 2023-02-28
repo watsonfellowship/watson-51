@@ -27,6 +27,6 @@ countries:
 
 ---
 
-The Collective Stories project was a global exploration of collective and individual narratives that shape communities around the globe through the construction of collective stories and memory.
+The Collective Stories project was a global exploration of the collective and individual narratives that shape communities around the globe through the construction of collective stories and memory.
 
 It was also my journey to becoming a writer and having the courage to live a life with a personal and social purpose.
