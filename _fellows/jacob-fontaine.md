@@ -27,4 +27,4 @@ countries:
 
 ---
 
-What factors influence young adults around the world to make environmentally sustainable decisions? Over the year, I immersed myself in communities that have been successful—or failed—in fostering new generations of enviromental stewards. Learning alongside leaders and on-the-ground change makers, I witnessed the beautiful and diverse process of helping young people care about their planet.
+What factors influence young adults around the world to make environmentally sustainable decisions? Over the year, I immersed myself in communities that have succeeded—or failed—in fostering new generations of environmental stewards. Learning alongside leaders and on-the-ground change makers, I witnessed the beautiful and diverse process of helping young people care about their planet.
