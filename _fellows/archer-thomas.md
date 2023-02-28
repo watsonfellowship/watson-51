@@ -23,4 +23,4 @@ countries:
 
 ---
 
-I engaged in an intensive, methodical exploration of cities around the world by riding the entirety of their metro systems, getting off at every station where possible. I sought to understand the relationship between design, transportation, and sense of place, while also considering the role of liminality in urban form.
+I engaged in an intensive, methodical exploration of cities around the world by riding the entirety of their metro systems, getting off at every station  possible. I sought to understand the relationship between design, transportation, and sense of place, while also considering the role of liminality in urban form.
