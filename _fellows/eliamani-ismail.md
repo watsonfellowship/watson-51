@@ -25,4 +25,4 @@ countries:
 
 ---
 
-My Watson year was spent exploring various cultures of writing, oral story telling, and cinematic practices around the world with the goal of understanding how different storytelling practices form national identity and—in tandem—the nation’s inclination towards punitive or non-punitive justice practices.
+My Watson year was spent exploring various cultures of writing, oral storytelling, and cinematic practices around the world. I aimed to understand how different storytelling practices form national identity and—in tandem—the nation's inclination towards punitive or non-punitive justice practices.
