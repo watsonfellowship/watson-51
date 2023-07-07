@@ -1,0 +1,24 @@
+---
+layout: fellows
+
+title: Zijia Zhuang
+
+pronouns: 
+
+email: zijiazhuang99@gmail.com
+
+school: 
+
+project: "Who is reading to children?"
+
+countries:
+  - Malaysia
+  - Italy
+  - Germany
+  - Japan
+  - Korea
+  - South Africa
+
+---
+
+I have collaborated with various organizations dedicated to promoting literacy and fostering parent-child reading experiences. These include NGOs, children's bookstores, libraries, local schools, and book festivals. Through my involvement, I had the opportunity to immerse myself in the inspiring stories of individuals committed to this important work.
