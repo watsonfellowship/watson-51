@@ -17,11 +17,11 @@ countries:
   - Germany
   - Denmark
   - France
-  - Netherlands
+  - The Netherlands
   - Ireland
   - Austria
   - Hungary
-  - Czechia
+  - Czech Republic
   - Spain
   - Italy
   - Greece
