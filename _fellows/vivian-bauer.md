@@ -17,7 +17,7 @@ countries:
   - Timor-Leste
   - Cabo Verde
   - Angola
-  - Moçambique
+  - Mozambique
 
 ---
 

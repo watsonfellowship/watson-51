@@ -22,7 +22,7 @@ countries:
   - Singapore
   - Indonesia
   - Germany
-  - Czechia
+  - Czech Republic
   - Slovakia
   - Austria
   - Hungary

@@ -19,7 +19,7 @@ countries:
   - England
   - Scotland
   - Sweden
-  - and Italy
+  - Italy
 
 ---
 
