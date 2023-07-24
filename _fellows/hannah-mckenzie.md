@@ -3,11 +3,11 @@ layout: fellows
 
 title: Hannah McKenzie
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: hannahmck13@gmail.com
 
-school: 
+school: Bates College
 
 project: "Community self-organization in queer and lesbian nightlife spaces"
 
