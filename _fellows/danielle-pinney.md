@@ -3,11 +3,11 @@ layout: fellows
 
 title: Danielle Pinney
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: dani.m.pinney@gmail.com
 
-school: 
+school: Union College
 
 project: "Moving Stories: Crafting Narratives Through and About Dance"
 
