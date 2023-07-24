@@ -3,11 +3,11 @@ layout: fellows
 
 title: Eleda Fernald
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: efernald1@gmail.com
 
-school: 
+school: Oberlin College
 
 project: "Pedagogy and Gender Inclusivity in Percussive Traditions"
 
