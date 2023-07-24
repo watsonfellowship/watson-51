@@ -3,11 +3,11 @@ layout: fellows
 
 title: Roy Toston
 
-pronouns: 
+pronouns: He/Him/His
 
 email: rtoston12@outlook.com
 
-school: 
+school: Davidson College
 
 project: "Intersections of Race and Racism in Healthcare"
 
