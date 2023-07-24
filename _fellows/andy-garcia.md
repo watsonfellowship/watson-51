@@ -3,11 +3,11 @@ layout: fellows
 
 title: Andy Garcia
 
-pronouns: 
+pronouns: They/Them
 
 email: personal.andygarcia@gmail.com
 
-school: 
+school: Bard College
 
 project: "Imaging the African Diasporic Past, Present, and Future"
 
