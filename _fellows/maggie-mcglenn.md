@@ -3,11 +3,11 @@ layout: fellows
 
 title: Maggie McGlenn
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: mwmcglenn@gmail.com
 
-school: 
+school: Lawrence University
 
 project: "Woven Together: Sustainability, Identity, & Connection through Clothing"
 
