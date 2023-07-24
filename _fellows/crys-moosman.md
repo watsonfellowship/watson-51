@@ -3,11 +3,11 @@ layout: fellows
 
 title: Crys Moosman
 
-pronouns: 
+pronouns: They/Them/Theirs
 
 email: moosmanc@grinnell.edu
 
-school: 
+school: Grinnell College
 
 project: "Wildlife Conservation Across Biomes, Boundaries, and People"
 
