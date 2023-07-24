@@ -3,11 +3,11 @@ layout: fellows
 
 title: Augustina Nguyen
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: anguyen_augustina@wheatoncollege.edu
 
-school: 
+school: Wheaton College
 
 project: "Tales of Two Medicines: Integration, Preservation, and Trust"
 
