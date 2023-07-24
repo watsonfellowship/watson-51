@@ -3,11 +3,11 @@ layout: fellows
 
 title: Hunter McDavid
 
-pronouns: 
+pronouns: He/Him/His
 
 email: hunter.mcdavid55@gmail.com
 
-school: 
+school: Haverford College
 
 project: "Nature-Based Interventions for Public Health"
 
