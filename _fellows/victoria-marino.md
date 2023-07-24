@@ -3,11 +3,11 @@ layout: fellows
 
 title: Victoria Marino
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: victoriapmarino@gmail.com
 
-school: 
+school: Harvey Mudd College
 
 project: "Fins & Fitness: Diving into Latin America"
 
