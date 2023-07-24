@@ -3,11 +3,11 @@ layout: fellows
 
 title: Ellie Lipp
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: ellipp@davidson.edu
 
-school: 
+school: Davidson College
 
 project: "Perception of Disability Based on Cultural Environment"
 
