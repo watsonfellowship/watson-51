@@ -3,11 +3,11 @@ layout: fellows
 
 title: Molly Gleydura
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: mprescia@conncoll.edu
 
-school: 
+school: Oberlin College
 
 project: "Child Loss: Supporting Individuals Before, During, and After"
 
