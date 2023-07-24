@@ -3,11 +3,11 @@ layout: fellows
 
 title: Lauren Hutton
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: lhutton@colgate.edu
 
-school: 
+school: Colgate University
 
 project: "On The Record: Media Portrayals of Sexual Violence"
 
