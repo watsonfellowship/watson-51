@@ -3,11 +3,11 @@ layout: fellows
 
 title: Kyra Zapf
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: kyrazapf@yahoo.com
 
-school: 
+school: University of Puget Sound
 
 project: "Textile Histories of Europe and Asia"
 
