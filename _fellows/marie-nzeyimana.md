@@ -3,11 +3,11 @@ layout: fellows
 
 title: Marie (Mary) Nzeyimana
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: marielucie.nml2000@gmail.com
 
-school: 
+school: Bowdoin College
 
 project: "The Role of Women: Community, Womanhood, and Caretaking"
 
