@@ -3,11 +3,11 @@ layout: fellows
 
 title: Brandon Saucedo Pita
 
-pronouns: 
+pronouns: He/Him/His
 
 email: bsaucedopita@gmail.com
 
-school: 
+school: Haverford College
 
 project: "De México Pal Mundo: Mexican Migration and Culture"
 
