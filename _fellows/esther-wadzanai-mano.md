@@ -3,11 +3,11 @@ layout: fellows
 
 title: Esther Wadzanai Mano
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: estherwzm@gmail.com
 
-school: 
+school: Earlham College
 
 project: "The Lion’s Story: Community Efforts at Decolonising African Education"
 
