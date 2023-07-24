@@ -3,11 +3,11 @@ layout: fellows
 
 title: Alisa Chen
 
-pronouns: 
+pronouns: They/Them/She
 
 email: alisa.chen17@gmail.com
 
-school: 
+school: Reed College
 
 project: "Chasing Ice: Hockey's Role in Community Building and Youth Education"
 
