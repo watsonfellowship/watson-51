@@ -3,11 +3,11 @@ layout: fellows
 
 title: Chloe Ortiz
 
-pronouns: 
+pronouns: She/They
 
 email: chloe.sky.ortiz@gmail.com
 
-school: 
+school: Pitzer College
 
 project: "Climate Pilgrimage: Catholic Ecotheology In Action"
 
