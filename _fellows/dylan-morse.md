@@ -3,11 +3,11 @@ layout: fellows
 
 title: Dylan Morse
 
-pronouns: 
+pronouns: He/Him/His
 
 email: dylanfsmorse@gmail.com
 
-school: 
+school: Hamilton College
 
 project: "Swimming Upstream: How Culture Impacts Atlantic Salmon Conservation"
 
