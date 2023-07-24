@@ -3,11 +3,11 @@ layout: fellows
 
 title: Langston Stephens
 
-pronouns: 
+pronouns: He/Him/His
 
 email: langston.tyler.stephens@gmail.com
 
-school: 
+school: Davidson College
 
 project: "Innovative Public and Private Affordable Housing Solutions"
 
