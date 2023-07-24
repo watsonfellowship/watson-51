@@ -3,11 +3,11 @@ layout: fellows
 
 title: Ricardo D. Jimenez
 
-pronouns: 
+pronouns: He/Him/His
 
 email: rdjimenez17@gmail.com
 
-school: 
+school: Lawrence University
 
 project: "Rediscovering My Roots: A Journey Through the Voice"
 
