@@ -3,11 +3,11 @@ layout: fellows
 
 title: ChiChi Odo
 
-pronouns: 
+pronouns: He/Him/His
 
 email: chodo@davidson.edu
 
-school: 
+school: Davidson College
 
 project: "Mental Health in Sport"
 
