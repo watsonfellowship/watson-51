@@ -3,11 +3,11 @@ layout: fellows
 
 title: Yuanhao Zou
 
-pronouns: 
+pronouns: He/Him/His
 
 email: sh0121yzou@gmail.com
 
-school: 
+school: Carleton College
 
 project: "Folk Music Traditions of Minority Languages"
 
