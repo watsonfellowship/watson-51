@@ -3,11 +3,11 @@ layout: fellows
 
 title: Grace Callahan
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: gcallah2@wellesley.edu
 
-school: 
+school: Wellesley College
 
 project: "Gendered Fisheries: Implications for Sea and Society"
 
