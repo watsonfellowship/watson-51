@@ -3,11 +3,11 @@ layout: fellows
 
 title: Savannah Wiegel
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: wiegelsj@hendrix.edu
 
-school: 
+school: Hendrix College
 
 project: "Healing Words: Building Community Health through Narrative Medicine"
 
