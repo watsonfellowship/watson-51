@@ -3,11 +3,11 @@ layout: fellows
 
 title: Divya Gudur
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: divya5gudur@gmail.com
 
-school: 
+school: Middlebury College
 
 project: "Community Organizing for Clean Air"
 
