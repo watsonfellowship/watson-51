@@ -3,11 +3,11 @@ layout: fellows
 
 title: Connie Chao
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: cchao3@wellesley.edu
 
-school: 
+school: Wellesley College
 
 project: "Bridging Gaps: A Year Alongside Community Health Workers"
 
