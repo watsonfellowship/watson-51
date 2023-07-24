@@ -3,11 +3,11 @@ layout: fellows
 
 title: Jordan McClintock
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: jordanrmcclintock@gmail.com
 
-school: 
+school: Colby College
 
 project: "Home Is Where the Heart Is: Refugee Narratives"
 
