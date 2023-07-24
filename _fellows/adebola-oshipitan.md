@@ -3,11 +3,11 @@ layout: fellows
 
 title: Adébọ́là Oshipitan
 
-pronouns: 
+pronouns: He/Him/His
 
 email: adebolaoshipitan@gmail.com
 
-school: 
+school: Amherst College
 
 project: "NEGROPHILIA: How Blackness is “Loved” Around The World"
 
