@@ -3,11 +3,11 @@ layout: fellows
 
 title: Abel Sapirstein
 
-pronouns: 
+pronouns: He/Him/His
 
 email: asprstn@gmail.com
 
-school: 
+school: Harvey Mudd College
 
 project: "Working Towards Health Equity: Global Perspectives"
 
