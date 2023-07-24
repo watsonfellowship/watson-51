@@ -3,11 +3,11 @@ layout: fellows
 
 title: Mark Diaz
 
-pronouns: 
+pronouns: He/Him/His
 
 email: meda2018@mymail.pomona.edu
 
-school: 
+school: Pomona College
 
 project: "Total Theatre: Global Discoveries of Diverse Drama"
 
