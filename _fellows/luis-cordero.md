@@ -3,11 +3,11 @@ layout: fellows
 
 title: Luis Cordero
 
-pronouns: 
+pronouns: He/They
 
 email: corderoluis861@yahoo.com
 
-school: 
+school: Davidson College
 
 project: "Foregrounding Dignity & Kindness In Care Facilities"
 
