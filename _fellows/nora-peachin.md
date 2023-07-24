@@ -3,11 +3,11 @@ layout: fellows
 
 title: Nora Peachin
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: npeachin@gmail.com
 
-school: 
+school: Middlebury College
 
 project: "Let’s Eat: Fighting Inequality with Communal Dining"
 
