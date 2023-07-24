@@ -3,11 +3,11 @@ layout: fellows
 
 title: Eniola Ajao
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: eniola.ajao@gmail.com
 
-school: 
+school: Amherst College
 
 project: "Non-Verbal Expression in Global Communities"
 
