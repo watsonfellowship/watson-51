@@ -3,11 +3,11 @@ layout: fellows
 
 title: Ilana Svartz
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: svartzip@gmail.com
 
-school: 
+school: Hendrix College
 
 project: "Compulsory Voting and the Culture of Civic Engagement"
 
