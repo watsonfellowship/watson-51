@@ -3,11 +3,11 @@ layout: fellows
 
 title: Livia Cox
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: lcox01@wesleyan.edu
 
-school: 
+school: Wesleyan University
 
 project: "Pain, Policy, and the Person"
 
