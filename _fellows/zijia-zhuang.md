@@ -3,11 +3,11 @@ layout: fellows
 
 title: Zijia Zhuang
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: zijiazhuang99@gmail.com
 
-school: 
+school: Bryn Mawr College
 
 project: "Who is reading to children?"
 
