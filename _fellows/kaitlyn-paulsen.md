@@ -3,11 +3,11 @@ layout: fellows
 
 title: Kaitlyn Paulsen
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: kaitlynpaulsen@gmail.com
 
-school: 
+school: Harvey Mudd College
 
 project: "Caring over Curing: Endurance through Challenging Health Experiences"
 
