@@ -3,11 +3,11 @@ layout: fellows
 
 title: Vivian Bauer
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: vivianbbauer@gmail.com
 
-school: 
+school: Macalester College
 
 project: "Looking Beyond Museums in the Portuguese Speaking World"
 
