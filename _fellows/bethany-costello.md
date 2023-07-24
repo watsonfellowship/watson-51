@@ -3,11 +3,11 @@ layout: fellows
 
 title: Bethany Costello
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: bethanycostello7@gmail.com
 
-school: 
+school: Union College
 
 project: "Global Sustainability, Local Engagement"
 
