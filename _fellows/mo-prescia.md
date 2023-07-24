@@ -3,11 +3,11 @@ layout: fellows
 
 title: Mo Prescia
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: molly.gleydura@oberlin.edu
 
-school: 
+school: Connecticut College
 
 project: "Filmmaking and Social Activism: A Global Lens"
 
