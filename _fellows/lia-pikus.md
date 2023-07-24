@@ -3,11 +3,11 @@ layout: fellows
 
 title: Lia Pikus
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: liapikus@gmail.com
 
-school: 
+school: Rice University
 
 project: "Creative World-Building: The Arts’ Role in Reimagining Realities"
 
