@@ -3,11 +3,11 @@ layout: fellows
 
 title: Jack Rider-McGovern
 
-pronouns: 
+pronouns: He/Him/His
 
 email: jridermcgovern@gmail.com
 
-school: 
+school: Connecticut College
 
 project: "Preserving Marginalized Languages"
 
