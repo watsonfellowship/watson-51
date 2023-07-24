@@ -3,11 +3,11 @@ layout: fellows
 
 title: Amy Spencer Harff
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: amyspencerharff@gmail.com
 
-school: 
+school: Hamilton College
 
 project: "Mother Earth's Artists: Harnessing Creativity for Environmental Action"
 
