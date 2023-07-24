@@ -3,11 +3,11 @@ layout: fellows
 
 title: Justin Morande
 
-pronouns: 
+pronouns: He/Him/His
 
 email: justinmorande@gmail.com
 
-school: 
+school: Middlebury College
 
 project: "Place and Placelessness: Architecture at a Crossroads"
 
