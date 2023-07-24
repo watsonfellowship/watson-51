@@ -3,11 +3,11 @@ layout: fellows
 
 title: Liam Voorhees
 
-pronouns: 
+pronouns: He/Him/His
 
 email: liamvoorhees@gmail.com
 
-school: 
+school: Whitman Colege
 
 project: "Chasing Questions in the Seams of Rivers"
 
