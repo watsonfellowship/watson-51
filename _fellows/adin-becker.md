@@ -3,11 +3,11 @@ layout: fellows
 
 title: Adin Becker
 
-pronouns: 
+pronouns: He/Him/His
 
 email: adin.i.becker@gmail.com
 
-school: 
+school: Pomona College
 
 project: "Jewish Persistence in the Periphery of Diaspora"
 
