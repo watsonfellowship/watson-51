@@ -3,11 +3,11 @@ layout: fellows
 
 title: Evangelos Sarantinos
 
-pronouns: 
+pronouns: He/Him/His
 
 email: evansarantinos@gmail.com
 
-school: 
+school: Whitman College
 
 project: "Rare Disease & the World’s Caregivers"
 
