@@ -3,11 +3,11 @@ layout: fellows
 
 title: Ben Portzen
 
-pronouns: 
+pronouns: He/Him/His
 
 email: portzenb@gmail.com
 
-school: 
+school: Lawrence University
 
 project: "Terra Incognita: Embracing Our Unknowns Through Art"
 
