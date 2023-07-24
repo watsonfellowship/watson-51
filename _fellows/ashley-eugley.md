@@ -3,11 +3,11 @@ layout: fellows
 
 title: Ashley Eugley
 
-pronouns: 
+pronouns: She/Her/Hers
 
 email: ameugley14@gmail.com
 
-school: 
+school: Bard College
 
 project: "Community Science as Community Agency"
 
