@@ -9,7 +9,7 @@ email: zijiazhuang99@gmail.com
 
 school: Bryn Mawr College
 
-project: "Who is reading to children?"
+project: "Who is Reading to Children?"
 
 countries:
   - Malaysia
