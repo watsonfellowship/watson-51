@@ -20,4 +20,4 @@ countries:
 
 ---
 
-I have been traveling five different countries to examine community and government efforts to promote and preserve marginalized or formerly marginalized languages.
+I traveled to five different countries to examine community and government efforts to promote and preserve marginalized or formerly marginalized languages.
