@@ -5,7 +5,7 @@ title: Mo Prescia
 
 pronouns: She/Her/Hers
 
-email: molly.gleydura@oberlin.edu
+email: mgprescia@gmail.com
 
 school: Connecticut College
 
