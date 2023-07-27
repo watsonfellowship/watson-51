@@ -25,4 +25,4 @@ countries:
 
 ---
 
-Inspired by the Chinese Book of Songs, I set out to learn and document folk songs of minority groups in five different regions - the Caucasus, the Maghrib, the Balkans, Mainland Southeast Asia, and the Japanese Archipelago. Connecting with musicians and storytellers, I sought represent their musical, linguistic and cultural diversity in a modern book of songs.
+Inspired by the Chinese Book of Songs, I set out to learn and document folk songs of minority groups in five different regions - the Caucasus, the Maghrib, the Balkans, Mainland Southeast Asia, and the Japanese Archipelago. Connecting with musicians and storytellers, I sought to represent their musical, linguistic and cultural diversity in a modern book of songs.
