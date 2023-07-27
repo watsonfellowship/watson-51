@@ -20,4 +20,4 @@ countries:
 
 ---
 
-Over the past year, I have visited five countries with compulsory voting. In each place, I was able to learn about their elections, government systems, and political culture to better understand how each country uniquely achieves their incredible levels of voter turnout.
+Over the past year, I visited five countries with compulsory voting. In each place, I learned about their elections, government systems, and political culture to better understand how each country uniquely achieves their incredible levels of voter turnout.
