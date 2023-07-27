@@ -26,4 +26,4 @@ countries:
 
 ---
 
-For my project, I having conversations with athletes, coaches, and sports psychologists around the world to learn from their experiences and get their perspectives on mental health in sport.
+For my project, I had conversations with athletes, coaches, and sports psychologists around the world to learn from their experiences and get their perspectives on mental health in sport.
