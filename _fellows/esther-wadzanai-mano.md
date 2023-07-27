@@ -25,4 +25,4 @@ countries:
 
 ---
 
-An African proverb states, “until the lions have their own historians, the history of the hunt will always glorify the hunter.” During my year, I will radically reimagine African education, by gaining a deeper understanding of what truly decolonized education can look like, and witness the effects it has on communities.
+An African proverb states, “until the lions have their own historians, the history of the hunt will always glorify the hunter.” During my year, I radically reimagined African education by gaining a deeper understanding of what truly decolonized education can look like, and witnessed the effects it has on communities.
