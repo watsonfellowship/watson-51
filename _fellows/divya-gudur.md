@@ -20,4 +20,4 @@ countries:
 
 ---
 
-I explored community organizing efforts against air pollution in Australia, South Korea, Mongolia, Vietnam, and Chile. In each country, I investigated the sociopolitical, cultural, and physical causes, impacts, and solutions to air pollution threats to ultimately understand how citizens across cultures mobilize their communities for lasting change.
+I explored community organizing efforts against air pollution. In each country, I investigated the sociopolitical, cultural, and physical causes, impacts, and solutions to air pollution threats to ultimately understand how citizens across cultures mobilize their communities for lasting change.
