@@ -5,7 +5,7 @@ title: Molly Gleydura
 
 pronouns: She/Her/Hers
 
-email: mprescia@conncoll.edu
+email: molly.gleydura@oberlin.edu
 
 school: Oberlin College
 
