@@ -21,4 +21,4 @@ countries:
 
 ---
 
-How does ice hockey impact community building and youth education? As I work at rinks, watch professional and recreational games, and train with players, I seek to learn more about what role ice hockey plays in communities, especially those oriented towards youth education.
+How does ice hockey impact community building and youth education? As I worked at rinks, watched professional and recreational games, and trained with players, I sought to learn more about what role ice hockey plays in communities, especially those oriented towards youth education.
