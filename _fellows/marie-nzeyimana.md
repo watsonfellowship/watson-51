@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Marie (Mary) Nzeyimana
+title: Mary Nzeyimana
 
 pronouns: She/Her/Hers
 
