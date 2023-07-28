@@ -5,7 +5,7 @@ title: Lauren Hutton
 
 pronouns: She/Her/Hers
 
-email: lhutton@colgate.edu
+email: lhutton@alumni.colgate.edu
 
 school: Colgate University
 

@@ -5,7 +5,7 @@ title: Ellie Lipp
 
 pronouns: She/Her/Hers
 
-email: ellipp@davidson.edu
+email: elizabethrlipp@gmail.com
 
 school: Davidson College
 

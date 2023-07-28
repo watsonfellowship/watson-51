@@ -29,4 +29,4 @@ countries:
 
 ---
 
-I focused on garnering perspective of family refugee healthcare through narratives of displaced communities, non-for-profit organizations, government branches, medical institutions, and local communities. I looked at political and economic climates of each location to get insight on the impact they had on healthcare accessibility for displaced individuals.
+I focused on garnering a perspective on family refugee healthcare through the narratives of displaced communities, non-for-profit organizations, government branches, medical institutions, and local communities. I looked at the political and economic climates of each location to get insight on the impact they had on healthcare accessibility for displaced individuals.

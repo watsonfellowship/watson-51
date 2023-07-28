@@ -5,7 +5,7 @@ title: Livia Cox
 
 pronouns: She/Her/Hers
 
-email: lcox01@wesleyan.edu
+email: livia.cox@gmail.com
 
 school: Wesleyan University
 
