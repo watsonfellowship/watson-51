@@ -17,7 +17,6 @@ countries:
   - Argentina
   - Brazil
   - Ecuador
-  - Argentina
 
 ---
 
