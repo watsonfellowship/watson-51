@@ -5,7 +5,7 @@ title: ChiChi Odo
 
 pronouns: He/Him/His
 
-email: chodo@davidson.edu
+email: cheebkayodo@gmail.com
 
 school: Davidson College
 
