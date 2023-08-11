@@ -7,7 +7,7 @@ pronouns: He/Him/His
 
 email: hunter.mcdavid55@gmail.com
 
-school: Haverford College
+school: Berea College
 
 project: "Nature-Based Interventions for Public Health"
 
