@@ -21,4 +21,4 @@ countries:
 
 ---
 
-For my project, I investigated alternative models for artistic spaces that center art as a tool for transformation, education, and liberation in countries where Portuguese is the official language. Through conversations with leaders, educators, artists, and curators, I looked at ways these spaces reach beyond Eurocentric models and give broader access to art and education.
+For my project, I studied and documented alternative models for artistic spaces that center art as a tool for transformation and education in countries where Portuguese is the official language. Through conversations, interviews, and experiences with educators, artists, and curators, I looked at ways these spaces reach beyond Eurocentric models and give broader access to art and education.
