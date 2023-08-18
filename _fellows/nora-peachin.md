@@ -19,4 +19,4 @@ countries:
 
 ---
 
-I studied the right to food and how different players (charities, mutual aid organizations, community kitchens, politicians, etc.) advance or hinder it. I wanted to understand the causes and perceptions of inequality in wealthy countries, and see which attempts at eliminating inequality and achieving the universal right to food are most effective.
+I studied the right to food and how different players — community kitchens, charities, mutual aid organizations, activists, political leaders, restaurants — advance or hinder it. My primary focus was on communal dining spaces. I wanted to understand what strategies these spaces found most effective for reducing food insecurity, and socioeconomic inequality more broadly.
