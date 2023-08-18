@@ -16,8 +16,8 @@ countries:
   - Morocco
   - Ireland
   - Italy
-  - Japan
   - Thailand
+  - Japan
   - Indonesia
 
 ---
