@@ -17,7 +17,6 @@ countries:
   - Germany
   - Japan
   - Korea
-  - South Africa
 
 ---
 
