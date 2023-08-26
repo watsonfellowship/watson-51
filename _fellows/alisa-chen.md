@@ -3,7 +3,7 @@ layout: fellows
 
 title: Alisa Chen
 
-pronouns: They/Them/She
+pronouns: They/She
 
 email: alisa.chen17@gmail.com
 
