@@ -5,7 +5,7 @@ title: Savannah Wiegel
 
 pronouns: She/Her/Hers
 
-email: wiegelsj@hendrix.edu
+email: wiegelsj@outlook.com
 
 school: Hendrix College
 
