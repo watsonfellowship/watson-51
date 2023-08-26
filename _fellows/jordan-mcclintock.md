@@ -24,8 +24,6 @@ countries:
   - Czech Republic
   - Spain
   - Italy
-  - Greece
-  - Norway
 
 ---
 
