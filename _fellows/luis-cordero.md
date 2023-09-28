@@ -5,7 +5,7 @@ title: Luis Cordero
 
 pronouns: He/They
 
-email: corderoluis861@yahoo.com
+email: lucordero861@gmail.com
 
 school: Davidson College
 
