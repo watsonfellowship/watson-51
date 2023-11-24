@@ -1,5 +1,9 @@
 ---
-layout: redirect
+layout: home
 title: Home
-redirect: /
+# redirect: /
 ---
+
+## Meet the Fellows
+
+Intro text goes here.
