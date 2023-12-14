@@ -5,9 +5,9 @@ title: Radu Stochita
 
 pronouns: He/Him
 
-email: 
+email: stochitaradu@gmail.com
 
-school: 
+school: Bowdoin College
 
 project: "Building Community Through Labor Activism"
 
