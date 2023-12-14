@@ -5,7 +5,7 @@ title: Claire E. Fleming
 
 pronouns: She/Her
 
-email: Union College
+email: claire.fleming@watson.is 
 
 school: Hendrix College
 
