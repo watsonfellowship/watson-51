@@ -5,9 +5,9 @@ title: Inayah Bahshir
 
 pronouns: She/They
 
-email: 
+email: inayah.bashir5@gmail.com
 
-school: 
+school: Wesleyan University
 
 project: "Uncovering the Foundations of Indigenous Spiritual Practice"
 
