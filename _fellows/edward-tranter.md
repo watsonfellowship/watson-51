@@ -5,9 +5,9 @@ title: Edward Tranter
 
 pronouns: He/Him/His
 
-email: 
+email: edwardtranter123@gmail.com
 
-school: 
+school: Swarthmore College
 
 project: "Improvements for Whom?: Technology and the Working Class"
 
