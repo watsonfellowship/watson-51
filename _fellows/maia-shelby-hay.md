@@ -5,9 +5,9 @@ title: Maia Shelby Hay
 
 pronouns: She/Hers
 
-email: 
+email: hay_maia@wheatoncollege.edu
 
-school: 
+school: Wheaton College
 
 project: "For Whom, By Whom: Perspectives on Public Art"
 
