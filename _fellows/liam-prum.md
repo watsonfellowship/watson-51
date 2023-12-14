@@ -5,9 +5,9 @@ title: Liam Prum
 
 pronouns: He/Him
 
-email: 
+email: liam.prum@gmail.com
 
-school: 
+school: Hamilton College
 
 project: "Food Sovereignty and Movements Leading the Way"
 
