@@ -5,9 +5,9 @@ title: Jasper White
 
 pronouns: He/Him
 
-email: 
+email: jwhite22@coa.edu
 
-school: 
+school: College of the Atlantic
 
 project: "The Invisible Pandemic: A Firsthand Look at Chytridiomycosis"
 
