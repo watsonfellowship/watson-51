@@ -5,9 +5,9 @@ title: Wilder McCoy
 
 pronouns: 
 
-email: 
+email: mccoyww0@sewanee.edu
 
-school: 
+school: Sewanee: the University of the South
 
 project: "Blue Money: The Cultural Value of Water"
 
