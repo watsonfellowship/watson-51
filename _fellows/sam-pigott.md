@@ -5,9 +5,9 @@ title: Sam Pigott
 
 pronouns: He/Him
 
-email: 
+email: spigott987@gmail.com
 
-school: 
+school: Earlham College
 
 project: "The Missing Link: Communities, Ownership and the Future of Conservation"
 
