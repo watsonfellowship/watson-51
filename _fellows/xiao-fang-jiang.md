@@ -5,9 +5,9 @@ title: Xiao Fang Jiang
 
 pronouns: She/They
 
-email: 
+email: xjaa2018@mymail.pomona.edu
 
-school: 
+school: Pomona College
 
 project: "Exploring the Chinese Diaspora Through Documentary, Photography, and Writing"
 
