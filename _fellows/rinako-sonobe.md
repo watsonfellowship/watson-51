@@ -5,9 +5,9 @@ title: Rinako Sonobe
 
 pronouns: She/Her/Hers
 
-email: 
+email: rinakosonobe@gmail.com
 
-school: 
+school: Wellesley College
 
 project: "Choreography Around the Press: Searching for Architectural Uniqueness"
 
