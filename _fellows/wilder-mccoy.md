@@ -7,7 +7,7 @@ pronouns:
 
 email: mccoyww0@sewanee.edu
 
-school: Sewanee: the University of the South
+school: "Sewanee: the University of the South"
 
 project: "Blue Money: The Cultural Value of Water"
 

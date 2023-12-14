@@ -7,7 +7,7 @@ pronouns: He/Him
 
 email: mbabazi1409@gmail.com
 
-school: Sewanee: the University of the South
+school: "Sewanee: the University of the South"
 
 project: "Art & Resilience"
 

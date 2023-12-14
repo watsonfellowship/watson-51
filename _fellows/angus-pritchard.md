@@ -7,7 +7,7 @@ pronouns: He/Him
 
 email: anguspritchard@gmail.com
 
-school: Sewanee: the University of the South
+school: "Sewanee: the University of the South"
 
 project: "Iconic Birds Through the Eyes of Community Leaders"
 
