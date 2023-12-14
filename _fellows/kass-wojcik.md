@@ -5,9 +5,9 @@ title: Kass Wojcik
 
 pronouns: She/Her
 
-email: 
+email: kasswojcik5@gmail.com
 
-school: 
+school: Bryn Mawr College
 
 project: "A Wandering Beeline: Exploring Beekeeping and Pollinator Conservation Around the World"
 
