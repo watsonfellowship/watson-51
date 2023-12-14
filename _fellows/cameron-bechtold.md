@@ -5,9 +5,9 @@ title: Cameron Bechtold
 
 pronouns: He/Him
 
-email: 
+email: cameronbechtold@gmail.com
 
-school: 
+school: Union College
 
 project: "Staying Afloat: Community Responses to Water Management"
 
