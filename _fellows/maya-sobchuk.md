@@ -5,9 +5,9 @@ title: Maya Sobchuk
 
 pronouns: She/Her
 
-email: 
+email: maya.sobchuk@gmail.com
 
-school: 
+school: Macalester College
 
 project: "Remnants of Imperialism in Modern Media"
 
