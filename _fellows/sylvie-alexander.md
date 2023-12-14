@@ -5,9 +5,9 @@ title: Sylvie Alexander
 
 pronouns: She/Her
 
-email: 
+email: sylvie.m.alexander@gmail.com
 
-school: 
+school: Scripps College
 
 project: "Seaweed, Society, and Climate Solutions"
 
