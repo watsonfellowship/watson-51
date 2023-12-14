@@ -5,9 +5,9 @@ title: Claire E. Fleming
 
 pronouns: She/Her
 
-email: 
+email: Union College
 
-school: 
+school: Hendrix College
 
 project: "Productive spirit: connection through vocation"
 
