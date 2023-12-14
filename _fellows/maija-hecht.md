@@ -5,9 +5,9 @@ title: Maija Hecht
 
 pronouns: She/Her
 
-email: 
+email: maijaugust@gmail.com
 
-school: 
+school: Macalester College
 
 project: "Bodies of Water: Reimagining Water Stewardship Through Storytelling"
 
