@@ -5,9 +5,9 @@ title: Mikayla Purnell
 
 pronouns: She/Her
 
-email: 
+email: mikapurnell4@gmail.com
 
-school: 
+school: Swarthmore College
 
 project: "Documenting the Vibrance of Black Joy"
 
