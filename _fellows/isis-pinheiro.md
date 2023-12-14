@@ -5,9 +5,9 @@ title: Isis Pinheiro
 
 pronouns: She/They
 
-email: 
+email: isispinheiro24@gmail.com
 
-school: 
+school: Bard College
 
 project: "By Us For Us?: Globalizing Black American Culture"
 
