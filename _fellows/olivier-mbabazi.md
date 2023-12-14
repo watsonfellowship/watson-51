@@ -5,9 +5,9 @@ title: Olivier Mbabazi
 
 pronouns: He/Him
 
-email: 
+email: mbabazi1409@gmail.com
 
-school: 
+school: Sewanee: the University of the South
 
 project: "Art & Resilience"
 
