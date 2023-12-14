@@ -5,9 +5,9 @@ title: Angus Pritchard
 
 pronouns: He/Him
 
-email: 
+email: anguspritchard@gmail.com
 
-school: 
+school: Sewanee: the University of the South
 
 project: "Iconic Birds Through the Eyes of Community Leaders"
 
