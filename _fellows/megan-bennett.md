@@ -5,9 +5,9 @@ title: Megan Bennett
 
 pronouns: She/Her/Hers
 
-email: 
+email: meganbennett9797@gmail.com
 
-school: 
+school: Earlham College
 
 project: "Utopias and Dystopias of Women in STEM Worldwide"
 
