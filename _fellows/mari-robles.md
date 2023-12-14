@@ -5,9 +5,9 @@ title: Mari Robles
 
 pronouns: She/Her
 
-email: 
+email: marimichellerobles@gmail.com
 
-school: 
+school: Vassar College
 
 project: "Language of the Heart: Ethnicity, Education, Empowerment"
 
