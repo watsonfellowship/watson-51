@@ -5,9 +5,9 @@ title: Stevie Hoesel
 
 pronouns: She/They
 
-email: 
+email: steviehoesel@gmail.com
 
-school: 
+school: Reed College
 
 project: "Rehabilitation isn’t Always the Answer: Interventions in Youth Incarceration"
 
