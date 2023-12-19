@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Inayah Bahshir
+title: Inayah Bashir
 
 pronouns: She/They
 
