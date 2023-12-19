@@ -15,7 +15,7 @@ countries:
   - United Kingdom
   - Italy
   - Belgium
-  - Netherlands
+  - The Netherlands
   - Norway
   - Argentina
   - Chile

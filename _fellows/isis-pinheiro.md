@@ -16,7 +16,7 @@ countries:
   - Spain
   - France
   - Belgium
-  - Netherlands
+  - The Netherlands
   - Germany
   - Portugal
   - Kenya
