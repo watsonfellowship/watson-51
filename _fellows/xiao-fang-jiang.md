@@ -18,4 +18,4 @@ countries:
 
 ---
 
-Chinatowns are a sacred community space for many ethnic groups in times of need. I explored how these spaces and identities were created and maintained in Penang, Malaysia, Taipei, Taiwan, and Hong Kong through conversations with local residents, participation in longheld traditions, and more through collaborative documentary, photography, and writing.
+Chinatowns are a sacred community space for many ethnic groups in times of need. I explored how these spaces and identities were created and maintained through conversations with local residents, participation in longheld traditions, and more through collaborative documentary, photography, and writing.
