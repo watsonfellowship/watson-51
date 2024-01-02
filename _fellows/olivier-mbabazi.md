@@ -22,4 +22,4 @@ countries:
 
 ---
 
-During my Watson year, I experienced and examined how diverse communities in Cape Verde, Senegal, Cambodia, Nepal, Seychelles, Jordan, and Mexico utilize audio and visual arts to process and transcend traumatic memories while fostering a culture of tolerance and reconciliation.
+During my Watson year, I experienced and examined how diverse communities utilize audio and visual arts to process and transcend traumatic memories while fostering a culture of tolerance and reconciliation.
