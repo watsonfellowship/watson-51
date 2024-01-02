@@ -19,4 +19,4 @@ countries:
   - France
 ---
 
-What inspires public artists? For whom do they create and what conversations do they hope to provoke? Post Pandemic I participated and created art in a variety of communities in order to answer these questions and grow my own identity as a public artist.
+What inspires public artists? For whom do they create and what conversations do they hope to provoke? Post Pandemic, I participated in, and created art with, a variety of communities, in order to answer these questions and grow my own identity as a public artist.
