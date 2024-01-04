@@ -24,4 +24,4 @@ countries:
 
 ---
 
-Afro heritage festivals are critical venues where Black communities express their identities and heritage. Why and how do people continue to rejoice in these contexts, even as they process the past and current realities of anti-blackness?
+Afro heritage festivals are critical venues where Black communities express their identities and heritage. I explored how people continue to rejoice in these contexts, even as they process the past and current realities of anti-blackness.
