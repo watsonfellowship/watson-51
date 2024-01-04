@@ -20,4 +20,4 @@ countries:
 
 ---
 
-I explored communal conservation as the key to an alternative economic foundation that fosters sustainable development and the empowerment of communities.
+I explored how communal conservation can offer an alternative economic foundation for communities, offering sustainable development and empowerment.
