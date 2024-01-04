@@ -20,4 +20,4 @@ countries:
 
 ---
 
-Learning from labor activists, trade unions, historians and researchers I seek to understand how labor can be a unifying force in a community. From bureaucratic institutions in Brussels to farmer-oriented versions in Kerala -- how does labor establish local empowerment?
+I learned from labor activists, trade unions, historians and researchers how labor can be a unifying force in a community. From bureaucratic institutions in Brussels to farmer-oriented versions in Kerala, I explored how labor establishes local empowerment.
