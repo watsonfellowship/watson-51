@@ -19,4 +19,4 @@ countries:
 
 ---
 
-Working with different communities, NGO's, and Investors in Africa and Asia to understand how the cultural relationships to water can be more effectively valued.
+I worked with communities, NGOs, and investors to understand how cultural relationships to water can be more effectively valued.
