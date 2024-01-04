@@ -24,4 +24,4 @@ countries:
 
 ---
 
-Work is a fundamental human experience of practical and spiritual necessity. I will travel across cultural borders to witness how individuals and communities meet physical, social and spiritual needs through vocation.
+Work is a fundamental human experience of practical and spiritual necessity. I travelled across cultural borders to witness how individuals and communities met physical, social and spiritual needs through vocation.
