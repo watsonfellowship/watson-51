@@ -19,4 +19,4 @@ countries:
 
 ---
 
-I worked with communities, NGOs, and investors to understand how cultural relationships to water can be more effectively valued.
+I explored the intersection of socially responsible investment and nuanced ways to value water. Instead of viewing water as a static economic resource, I studied how water has concrete social, cultural, and religious dimensions that should be accounted for in water resource governance. The project was a unique opportunity to work with communities, NGO's, and investors who all have a role in valuing the world's most important resource: Water.
