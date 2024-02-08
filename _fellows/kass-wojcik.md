@@ -17,9 +17,9 @@ countries:
   - Kenya
   - Austria
   - Slovenia
-  - Hungary
+  - Costa Rica
   - Romania
   - Peru
 ---
 
-Pollinators are an immensely diverse and important group of animals, but their populations around the world are declining. By working with beekeepers, researchers, conservationists, and agriculturalists, my fellowship year was about exploring the relationship between people, pollinators, and the environment as well as how that relationship is changing in the face of new challenges.
+Pollinators are an immensely diverse and important group of organisms, yet their populations are declining around the world. I worked with beekeepers, researchers, conservationists, and agriculturalists to explore the relationships between people, pollinators, and their environments, and how those relationships are changing in the face of new challenges.
