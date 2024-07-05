@@ -12,7 +12,7 @@ school: Whitman College
 project: "[Not] Wasted: Exploring a World Without Waste"
 
 countries:
-  - Netherlands
+  - The Netherlands
   - Spain
   - United Kingdom
   - Italy

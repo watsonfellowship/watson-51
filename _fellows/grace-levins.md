@@ -1,22 +1,26 @@
 ---
 layout: fellows
 
-title: Garrett Bullock
+title: Grace Levins
 
 pronouns: 
 
-email: gofthe21@gmail.com
+email: levinsg@union.edu
 
-school: Ursinus College
+school: Union College
 
-project: "Percussion as Pedagogy: Instilling Cultural Values"
+project: "Coastal Resilience & Adaptation"
 
 countries:
-  - Japan
+  - United Kingdom
   - Peru
+  - Italy
+  - Vietnam
   - Australia
-  - Ghana
+  - New Zealand
+  - Germany
+  - The Netherlands
 
 ---
 
-What do we really teach when we teach percussion? I immersed myself in global drumming traditions to understand the complex relationship between music, education, identity, and cultural values. I tried to understand how performance and musicality are shaped by and reflect values, and how identity impacts a person's engagement with this musical form.
+Problem solving in the face of change requires understanding both the physical and social implications. I met with researchers, government officials, and community groups to learn about the state of coastal adaptation. The gap between scientists and decision-makers was discussed, proving to be an area for further improvement when developing coastal adaptation plans.

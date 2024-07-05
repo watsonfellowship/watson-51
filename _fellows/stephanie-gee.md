@@ -16,7 +16,7 @@ countries:
   - Singapore
   - Switzerland
   - India
-  - Türkiye
+  - Turkey
   - Vietnam
   - Sri Lanka
   - Tanzania

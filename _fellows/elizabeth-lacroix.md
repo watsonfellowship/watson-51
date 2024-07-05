@@ -18,7 +18,7 @@ countries:
   - Argentina
   - Uruguay
   - Brazil
-  - Bolívia
+  - Bolivia
   - Taiwan
   - Japan
   - Nepal

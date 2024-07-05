@@ -14,7 +14,7 @@ project: "The Many Faces of Manhood"
 countries:
   - Sweden
   - Turkey
-  - London
+  - United Kingdom
   - Kenya
   - India
   - Japan

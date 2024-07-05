@@ -16,7 +16,7 @@ countries:
   - France
   - Italy
   - Turkey
-  - Bosnia-Herzegovina
+  - Bosnia and Herzegovina
   - South Africa
   - Vietnam
   - Taiwan

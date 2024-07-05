@@ -12,7 +12,7 @@ school: Hendrix College
 project: "Homecoming: Experiences of Return Around the World"
 
 countries:
-  - Bosnia-Herzegovina
+  - Bosnia and Herzegovina
   - Serbia
   - Kosovo
   - Senegal

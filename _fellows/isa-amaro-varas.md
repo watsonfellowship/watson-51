@@ -16,7 +16,7 @@ countries:
   - Morocco
   - Spain
   - Germany
-  - Cape Town
+  - South Africa
   - Australia
   - Indonesia
 ---

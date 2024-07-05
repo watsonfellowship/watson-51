@@ -12,13 +12,13 @@ school: Carleton College
 project: "Cultural and National Belonging in Places of Conflict"
 
 countries:
-  - The Republic of Ireland
+  - Ireland
   - United Kingdom
   - Spain
   - South Africa
   - Rwanda
   - Thailand
-  - The Philippines
+  - Philippines
   - Taiwan
   - New Zealand
 ---

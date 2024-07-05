@@ -13,7 +13,7 @@ project: "Innovation and Empowerment in Disability Communities"
 
 countries:
   - United Kingdom
-  - Netherlands
+  - The Netherlands
   - Belgium
   - France
   - Spain

@@ -13,7 +13,7 @@ project: "Invisible Threads: Connections Between Fungi, People, and Ecosystems"
 
 countries:
   - Czech Republic
-  - Netherlands
+  - The Netherlands
   - United Kingdom
   - Chile
 ---
