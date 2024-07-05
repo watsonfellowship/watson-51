@@ -1,7 +1,7 @@
 ---
-layout: redirect
+layout: home
 title: Home
-redirect: /
+# redirect: /
 ---
 
 ## Meet the Fellows
