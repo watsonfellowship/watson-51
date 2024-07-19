@@ -1,24 +1,21 @@
 ---
 layout: fellows
 
-title: Crystal Ma
+title: Clark O’Bryan
 
 pronouns: 
 
-email: masisi@gmail.com
+email: clarkobryan@gmail.com
 
-school: Williams College
+school: Middlebury College
 
-project: "Spectral Agencies: Collective Memory in Sound and Craft"
+project: "From This Ground: Building In a Changing Climate"
 
 countries:
+  - Ireland
   - Estonia
-  - Finland
-  - Greece
-  - India
+  - Norway
   - Japan
-  - United Kingdom
-  - Guyana
 ---
 
-Contemporary madness is not hauntological, defined by nostalgia, but post-hauntological, defined by anxiety. Electronic, religious, and ritual musicians, and the present work of traditional artists and craftsmen, share resistive politics that challenge us to recognize the ghosts of the past and the lost futures that haunt our present.
+From what and where will our buildings be made in the future? Travelling across climates similar to my home in northern New England, I worked with traditional craftspeople across stone, earth, fiber and wood professions, seeking the materials and methods for a sustainable approach to building in place.
