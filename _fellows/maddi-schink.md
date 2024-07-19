@@ -5,7 +5,7 @@ title: Maddi Schink
 
 pronouns: 
 
-email: iammuna2ray@gmail.com
+email: m_schink@coloradocollege.edu
 
 school: Colorado College
 
