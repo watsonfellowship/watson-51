@@ -5,7 +5,7 @@ title: Maimuna Touray
 
 pronouns: 
 
-email: lilosham@gmail.com
+email: m_schink@coloradocollege.edu
 
 school: Vassar College
 
