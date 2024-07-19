@@ -5,7 +5,7 @@ title: Lelo Shamambo
 
 pronouns: 
 
-email: mackenziegearin@gmail.com
+email: lilosham@gmail.com
 
 school: Rhodes College
 
