@@ -9,7 +9,7 @@ email: ehart@oberlin.edu
 
 school: Oberlin College
 
-project: "It Ends With Me(n): Healing Roots of Violence"
+project: "Violence Prevention: Promoting Positive Masculinities and (Men)tal Health"
 
 countries:
   - Australia
