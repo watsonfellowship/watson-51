@@ -5,7 +5,7 @@ title: Mackenzie Gearin
 
 pronouns: 
 
-email: m_schink@coloradocollege.edu
+email: mackenziegearin@gmail.com
 
 school: Hendrix College
 
