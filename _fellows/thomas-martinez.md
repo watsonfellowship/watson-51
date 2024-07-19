@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Thomas (Tomás) Martinez
+title: Thomas Martinez
 
 pronouns: 
 
