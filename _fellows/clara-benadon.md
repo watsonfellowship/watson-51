@@ -13,7 +13,7 @@ project: "Threads That Bind: Fiber Farming, Art, and Climate"
 
 countries:
   - Norway
-  - Faroe Islandsa
+  - Faroe Islands
   - Scotland
   - Ireland
   - Austria
