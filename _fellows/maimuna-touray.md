@@ -5,7 +5,7 @@ title: Maimuna Touray
 
 pronouns: 
 
-email: m_schink@coloradocollege.edu
+email: iammuna2ray@gmail.com
 
 school: Vassar College
 
