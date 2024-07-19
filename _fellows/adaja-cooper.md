@@ -9,7 +9,7 @@ email: adajacooper@gmail.com
 
 school: Hendrix College
 
-project: "Iconic Birds Through the Eyes of Community Leaders"
+project: "Artistic Activism as a Form of Power & Preservation"
 
 countries:
   - United Kingdom
