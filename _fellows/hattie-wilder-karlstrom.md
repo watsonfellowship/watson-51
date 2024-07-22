@@ -15,7 +15,6 @@ countries:
   - Greece
   - Brazil
   - Costa Rica
-  - Greece
 
 ---
 
