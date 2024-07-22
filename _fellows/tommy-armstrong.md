@@ -16,7 +16,7 @@ countries:
   - Austria
   - Turkey
   - South Africa
-  - England
+  - United Kingdom
   - Germany
   - Japan
   - New Zealand
