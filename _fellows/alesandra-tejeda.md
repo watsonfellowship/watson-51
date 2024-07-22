@@ -9,7 +9,7 @@ email: alesandra.c.tejeda@gmail.com
 
 school: Colorado College
 
-project: "Understanding A Photograph: History, Memory, and Their Construction"
+project: "Understanding a Photograph: History, Memory, and Their Construction"
 
 countries:
   - United Kingdom
