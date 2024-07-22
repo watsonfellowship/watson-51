@@ -13,7 +13,7 @@ project: "Ethical Understandings of Traditional Medicine"
 
 countries:
   - Samoa
-  - Philippines
+  - The Philippines
   - Thailand
   - Nepal
   - Ghana
