@@ -9,7 +9,7 @@ email: hzhou510@gmail.com
 
 school: Bates College
 
-project: "Hearts and Minds on A Changing Planet"
+project: "Hearts and Minds on a Changing Planet"
 
 countries:
   - Chile
