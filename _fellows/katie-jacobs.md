@@ -7,7 +7,7 @@ pronouns:
 
 email: katiejacobs28@gmail.com
 
-school: Whitman College
+school: Earlham College
 
 project: "[Not] Wasted: Exploring a World Without Waste"
 
@@ -18,7 +18,7 @@ countries:
   - Italy
   - Malawi
   - Kenya
-  - Philippines
+  - The Philippines
   - South Korea
   - Chile
 ---
