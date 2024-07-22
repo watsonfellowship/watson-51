@@ -18,7 +18,7 @@ countries:
   - Rwanda
   - India
   - Bhutan
-  - Philippines
+  - The Philippines
   - Switzerland
   - Zimbabwe
 
