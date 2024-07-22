@@ -25,4 +25,4 @@ countries:
 
 ---
 
-By collecting of cross-cultural stories on menstrual pain, I sought to heal the lines of miscommunication between patients, medical practitioners, and researchers. While searching for alternative methods of treatment other than hormonal contraception, I gained an understanding, both biological and psychological, of this pain.
+By collecting cross-cultural stories on menstrual pain, I sought to heal the lines of miscommunication between patients, medical practitioners, and researchers. While searching for alternative methods of treatment other than hormonal contraception, I gained an understanding, both biological and psychological, of this pain.
