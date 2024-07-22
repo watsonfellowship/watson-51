@@ -15,7 +15,7 @@ countries:
   - Spain
   - United Kingdom
   - South Africa
-  - Philippines
+  - The Philippines
 
 ---
 
