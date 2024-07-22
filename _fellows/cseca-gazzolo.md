@@ -20,7 +20,7 @@ countries:
   - South Africa
   - Vietnam
   - Taiwan
-  - Philippines
+  - The Philippines
   - Japan
 ---
 
