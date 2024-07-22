@@ -18,7 +18,7 @@ countries:
   - South Africa
   - Rwanda
   - Thailand
-  - Philippines
+  - The Philippines
   - Taiwan
   - New Zealand
 ---
