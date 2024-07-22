@@ -15,7 +15,7 @@ countries:
   - Ecuador
   - Argentina
   - Costa Rica
-  - Philippines
+  - The Philippines
   - Hong Kong
 ---
 
