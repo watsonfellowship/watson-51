@@ -15,7 +15,7 @@ countries:
   - Canada
   - Brazil
   - Australia
-  - Philippines
+  - The Philippines
   - Indonesia
   - Morocco
   - Spain
