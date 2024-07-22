@@ -25,4 +25,4 @@ countries:
   
 ---
 
-Urban climate resilience is a global initiative that addresses the physical, social, and economic challenges presented by the climate crisis. Exploring these initiatives—government-down and community-up—I engaged with the goals, strategies, and innovations of resilience programs and urban communities in four cities around the world.
+Urban climate resilience is a global initiative that addresses the physical, social, and economic challenges presented by the climate crisis. Exploring these initiatives—government-down and community-up—I engaged with the goals, strategies, and innovations of resilience programs and urban communities around the world.
