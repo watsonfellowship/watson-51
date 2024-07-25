@@ -21,7 +21,6 @@ countries:
   - Spain
   - Portugal
   - Germany
-  - Slovenia
 
 ---
 
