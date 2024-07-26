@@ -1,7 +1,7 @@
 ---
-layout: redirect
+layout: home
 title: Home
-redirect: /2024-Winter/
+# redirect: /2024-Winter/
 ---
 
 ## Meet the Fellows
