@@ -29,7 +29,6 @@
 1. In `index.md`, change the `layout` from `home` to `redirect`, and the `redirect` to the new archived subdirectory. This will hide the working files when someone visits the homepage.
 2. In `home.md`, change the `layout` from `redirect` to `home`. This will temporarily allow` /home.html` to act as the in-progress site's homepage, while hiding it from public view.
 3. Update the `title` field in `_config.yml` to match the new class.
-4. In `_includes/tease-grid.html`, update the Fellows year.
 
 
 

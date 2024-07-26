@@ -6,6 +6,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-gap: $spacing-xl;
+  margin: $spacing-xxl 0 0;
 }
 
 .tease {
