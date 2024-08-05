@@ -7,7 +7,7 @@ pronouns:
 
 email: portzenb@gmail.com
 
-school: Middlebury College
+school: Lawrence University
 
 project: "Terra Incognita: Embracing Our Unknowns Through Art"
 
