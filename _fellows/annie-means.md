@@ -19,7 +19,8 @@ countries:
   - New Zealand
   - Japan
   - Italy
-  - Spain
+  - Portugal
+  - Holland
 ---
 
 Working alongside women and sharing in their lived experiences, I explored gender discrepancies within the international blue economy. From boat-building collectives to aquaculture cooperatives, my interactions with these remarkable women taught me what advocacy, perseverance, and leadership look like, shaping my vision of a more hopeful and representative marine sector.
