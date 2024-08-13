@@ -9,7 +9,7 @@ email: clarkobryan@gmail.com
 
 school: Middlebury College
 
-project: "From This Ground: Building In a Changing Climate"
+project: "Sourcing the Future Building"
 
 countries:
   - Ireland
@@ -18,4 +18,4 @@ countries:
   - Japan
 ---
 
-From what and where will our buildings be made in the future? Travelling across climates similar to my home in northern New England, I worked with traditional craftspeople across stone, earth, fiber and wood professions, seeking the materials and methods for a sustainable approach to building in place.
+Modern construction materials can only feed us for so long. Traveling across climates similar to my home in northern New England, I worked alongside master craftspeople exploring the millenia-old materials and techniques for building sustainably in place.
