@@ -5,7 +5,7 @@ title: Ella Meyer
 
 pronouns: 
 
-email: emeyer@students.pitzer.edu
+email: ellameyer66@gmail.com
 
 school: Pitzer College
 
