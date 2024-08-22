@@ -18,7 +18,6 @@ countries:
   - Senegal
   - Kenya
   - Sri Lanka
-  - Vietnam
   - Japan
   - Kazakhstan
   - Kyrgyzstan
