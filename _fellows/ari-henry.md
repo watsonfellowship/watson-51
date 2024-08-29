@@ -5,7 +5,7 @@ title: Ari Henry
 
 pronouns: 
 
-email: ahenry@vassar.edu
+email: heyariana01@gmail.com
 
 school: Vassar College
 
