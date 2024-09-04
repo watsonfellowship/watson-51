@@ -5,7 +5,7 @@ title: Grace Levins
 
 pronouns: 
 
-email: levinsg@union.edu
+email: gclevins@gmail.com
 
 school: Union College
 
