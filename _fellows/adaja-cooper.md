@@ -5,7 +5,7 @@ title: Adaja Cooper
 
 pronouns: 
 
-email: adajacooper@gmail.org
+email: adajacooper@gmail.com
 
 school: Hendrix College
 
