@@ -3,8 +3,6 @@ layout: fellows
 
 title: Firstname Lastname
 
-pronouns: 
-
 email: FirstnameLastname@gmail.com
 
 school: Firstname Lastname College
