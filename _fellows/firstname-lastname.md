@@ -1,7 +1,7 @@
 ---
 layout: fellows
 
-title: Agathe Mwehu
+title: Firstname Lastname
 
 pronouns: 
 
