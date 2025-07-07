@@ -7,7 +7,7 @@ email: mmccollu@oberlin.edu
 
 school: Bowdoin College
 
-project: "'Intergenerational Relationships: Amplifying Voices of All Ages'"
+project: "Intergenerational Relationships: Amplifying Voices of All Ages"
 
 countries:
   - Slovenia

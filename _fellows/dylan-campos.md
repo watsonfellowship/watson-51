@@ -7,7 +7,7 @@ email: dcampos@wesleyan.edu
 
 school: Wesleyan College
 
-project: "'Communities Cultivate Cities: Urban Agriculture as Power'"
+project: "Communities Cultivate Cities: Urban Agriculture as Power"
 
 countries:
   - Australia

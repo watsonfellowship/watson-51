@@ -7,7 +7,7 @@ email: samgordonwexler@gmail.com
 
 school: Union College
 
-project: "'Storytelling in Amber: Visual Expression, Memory, and Connection'"
+project: "Storytelling in Amber: Visual Expression, Memory, and Connection"
 
 countries:
   - Guatemala

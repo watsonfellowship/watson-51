@@ -7,7 +7,7 @@ email: yxia@wellesley.edu
 
 school: Wellesley College
 
-project: "'Plant-Based Lifestyles: From Culinary Arts to Community-Building'"
+project: "Plant-Based Lifestyles: From Culinary Arts to Community-Building"
 
 countries:
   - Japan

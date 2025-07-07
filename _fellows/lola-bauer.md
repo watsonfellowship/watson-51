@@ -7,7 +7,7 @@ email: lolabauer07@gmail.com
 
 school: Berea College
 
-project: "'Environmental Poetry: Coastal Connections'"
+project: "Environmental Poetry: Coastal Connections"
 
 countries:
   - Mozambique

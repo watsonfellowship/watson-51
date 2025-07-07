@@ -7,7 +7,7 @@ email: ramirezgiorlando@gmail.com
 
 school: Reed College
 
-project: "'Comparative Nationalisms: Forming and Negotiating National Identities'"
+project: "Comparative Nationalisms: Forming and Negotiating National Identities"
 
 countries:
   - Thailand

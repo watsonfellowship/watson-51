@@ -7,7 +7,7 @@ email: nr6502@bard.edu
 
 school: Bard College
 
-project: "'Exploring Beyond Limits: Extremophiles, Myths, and Resilience'"
+project: "Exploring Beyond Limits: Extremophiles, Myths, and Resilience"
 
 countries:
   - Spain

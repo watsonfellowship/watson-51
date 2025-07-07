@@ -7,7 +7,7 @@ email: anushakarki5801@gmail.com
 
 school: Hamilton College
 
-project: "'The Hidden Help: Migrant Domestic Workers’ Experiences'"
+project: "The Hidden Help: Migrant Domestic Workers’ Experiences"
 
 countries:
   - The Philippines

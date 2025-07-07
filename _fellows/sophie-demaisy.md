@@ -7,7 +7,7 @@ email: sosodem@hotmail.ca
 
 school: Connecticut College
 
-project: "'Coffee Production: A Journey towards a Sustainable Industry'"
+project: "Coffee Production: A Journey towards a Sustainable Industry"
 
 countries:
   - Brazil

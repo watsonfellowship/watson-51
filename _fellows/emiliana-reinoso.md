@@ -7,7 +7,7 @@ email: ereinoso24@coa.edu
 
 school: College of the Atlantic
 
-project: "'Social Ecologies: Weaving Stories through Art'"
+project: "Social Ecologies: Weaving Stories through Art"
 
 countries:
   - Argentina

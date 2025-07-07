@@ -7,7 +7,7 @@ email: carlosyunotebook@gmail.com
 
 school: Wheaton College
 
-project: "'Water Breaches the Borders: Narrative as Resistance'"
+project: "Water Breaches the Borders: Narrative as Resistance"
 
 countries:
   - Spain

@@ -7,7 +7,7 @@ email: clhl2002@gmail.com
 
 school: Wesleyan University
 
-project: "'Voices of Resistance: Community Action Against Patriarchal Violence'"
+project: "Voices of Resistance: Community Action Against Patriarchal Violence"
 
 countries:
   - Netherlands

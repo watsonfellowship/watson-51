@@ -7,7 +7,7 @@ email: mayalamm54@gmail.com
 
 school: Oberlin College
 
-project: "'Weaving Sound: Interdisciplinary Art in the Evolving Landscape'"
+project: "Weaving Sound: Interdisciplinary Art in the Evolving Landscape"
 
 countries:
   - Mexico

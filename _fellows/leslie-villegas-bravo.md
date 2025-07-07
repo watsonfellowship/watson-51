@@ -7,7 +7,7 @@ email: lvillegas@conncoll.edu
 
 school: Connecticut College
 
-project: "'Technology Integration: Honoring Indigenous - Rural Lifestyle'"
+project: "Technology Integration: Honoring Indigenous - Rural Lifestyle"
 
 countries:
   - Belize
