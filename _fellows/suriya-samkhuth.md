@@ -12,7 +12,7 @@ project: "A Record of Trans World-Making"
 countries:
   - Argentina
   - Brazil
-  - the United Kingdom
+  - United Kingdom
   - Cambodia
   - Thailand
 

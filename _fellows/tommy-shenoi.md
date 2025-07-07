@@ -17,7 +17,7 @@ countries:
   - Italy
   - Japan
   - Korea
-  - Netherlands
+  - The Netherlands
   - Singapore
   - United Kingdom
 

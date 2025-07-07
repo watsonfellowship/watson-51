@@ -12,7 +12,7 @@ project: "The Transformative Power of Compassion in Education"
 countries:
   - Finland
   - Estonia
-  - UAE
+  - United Arab Emirates
   - India
   - Malaysia
   - Japan

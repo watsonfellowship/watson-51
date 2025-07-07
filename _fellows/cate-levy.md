@@ -10,7 +10,7 @@ school: Wesleyan University
 project: "Voices of Resistance: Community Action Against Patriarchal Violence"
 
 countries:
-  - Netherlands
+  - The Netherlands
   - Germany
   - United Kingdom
   - Italy

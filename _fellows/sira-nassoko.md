@@ -11,7 +11,7 @@ project: "Sounds of Hope"
 
 countries:
   - Finland
-  - the United Kingdom
+  - United Kingdom
   - Sengal
   - Rwanda
   - Argentina

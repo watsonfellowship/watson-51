@@ -12,7 +12,7 @@ project: "Grief in the Time of COVID-19"
 countries:
   - Mexico
   - Chile
-  - the UK
+  - United Kingdom
   - the Netherlands
   - Ireland
   - Japan
