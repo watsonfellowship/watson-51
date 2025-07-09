@@ -13,8 +13,7 @@ countries:
   - Iceland
   - Faroe Islands
   - United Kingdom
-  - South Georgia and the South
-  - Shetlands
+  - South Georgia and the South Shetlands
   - The Falkland Islands
   - Chile
   - Antarctica
