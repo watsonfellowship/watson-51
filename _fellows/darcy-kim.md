@@ -24,4 +24,4 @@ countries:
 
 ---
 
-For my Watson year, I travelled to Korea, Netherlands, UK, Brazil, Ecuador, Peru, Bolivia, Aruba, South Africa, Japan, and the Philippines partnering with community based organization. We collectively grappled with how to build, integrate, and respond to AI with a soft and caring heart.
+For my Watson year, I partnered with community based organizations. We collectively grappled with how to build, integrate, and respond to AI with a soft and caring heart.
