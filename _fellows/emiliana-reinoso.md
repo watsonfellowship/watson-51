@@ -20,4 +20,4 @@ countries:
 
 ---
 
-The planetary crisis brings complex and emergent questions. During my Watson project “on the move” I visited different communities and social actors in Argentina, Uruguay, Brazil, Ecuador, Australia, New Zealand, and Spain to think about the importance of relationality, stories and art in the face of climate change.
+The planetary crisis brings complex and emergent questions. I visited different communities and social actors to think about the importance of relationality, stories and art in the face of climate change.
