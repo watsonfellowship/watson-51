@@ -3,7 +3,7 @@ layout: fellows
 
 title: Maya Lamm
 
-email: mmccollu@oberlin.edu
+email: mayalamm54@gmail.com
 
 school: Bowdoin College
 
