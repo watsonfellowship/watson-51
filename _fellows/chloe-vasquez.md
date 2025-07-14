@@ -3,7 +3,7 @@ layout: fellows
 
 title: Chloe Vasquez
 
-email: cvasquez@macalester.edu
+email: chloe.el.vasquez@gmail.com
 
 school: Macalester College
 
