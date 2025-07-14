@@ -3,7 +3,7 @@ layout: fellows
 
 title: Samara Gordon Wexler
 
-email: crowles2@union.edu
+email: samgordonwexler@gmail.com
 
 school: Middlebury College
 
