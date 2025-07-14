@@ -19,4 +19,4 @@ countries:
 
 ---
 
-How do nations confront, reconcile with, and transition beyond past atrocities? Engaging with national governments, international foundations, social justice and human rights organizations, and impacted community members, I will explore how nations create, preserve, and/or erase their collective memory.
+How do nations confront, reconcile with, and transition beyond past atrocities? Engaging with national governments, international foundations, social justice and human rights organizations, and impacted community members, I explored how nations created, preserved, and/or erased their collective memory.
