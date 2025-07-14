@@ -3,7 +3,7 @@ layout: fellows
 
 title: Sam Crowley
 
-email: 
+email: crowles2@union.edu 
 
 school: Union College
 
