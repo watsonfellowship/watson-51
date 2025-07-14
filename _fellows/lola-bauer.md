@@ -18,4 +18,4 @@ countries:
 
 ---
 
-Working alongside developing coastal communities, I will use a variety of poetic forms to tell their stories, and expand my scope of the ocean and what threatens it.
+Working alongside developing coastal communities, I used a variety of poetic forms to tell their stories, and expand my scope of the ocean and what threatens it.
