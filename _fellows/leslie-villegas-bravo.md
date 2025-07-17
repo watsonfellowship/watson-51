@@ -16,7 +16,7 @@ countries:
   - Belgium
   - Kenya
   - Japan
-  - the Philippines
+  - The Philippines
   - Thailand
 
 ---
