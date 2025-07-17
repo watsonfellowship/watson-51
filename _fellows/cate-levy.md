@@ -22,4 +22,4 @@ countries:
 
 ---
 
-Spanning three continents, my project explored responses to sexual discrimination, abuse, and patriarchal injustice. Through interviews and in-depth work with organizations, collectives, and activists, I learned how they implement imaginative strategies to combat sexual, environmental, political, economic, physical, and emotional violence within their communities.
+Spanning three continents, my project explored responses to sexual discrimination, abuse, and patriarchal injustice. Through interviews and work with organizations, collectives, and activists, I learned how they implement imaginative strategies to combat sexual, environmental, political, economic, physical, and emotional violence within their communities.
