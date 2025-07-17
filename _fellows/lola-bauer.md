@@ -13,7 +13,7 @@ countries:
   - Mozambique
   - Sri Lanka
   - Chile
-  - Philippines
+  - The Philippines
   - Indonesia
 
 ---
