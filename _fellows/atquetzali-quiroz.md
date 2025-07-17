@@ -19,4 +19,4 @@ countries:
 
 ---
 
-Indigenous cultural education is a vital tool in the battle against the impacts of colonization by fostering pride, healing, love, resistance, and empowerment. By engaging with diverse cultural education approaches shaped by unique colonial histories, I built relationships and deepened Indigenous solidarity rooted in education.
+Indigenous cultural education is a vital tool in the battle against the impacts of colonization by fostering pride, healing, love, resistance, and empowerment. By engaging with diverse cultural education approaches shaped by unique colonial histories, I built relationships and deepened my understanding of Indigenous solidarity rooted in education.
