@@ -22,4 +22,4 @@ countries:
 
 ---
 
-How does culture impact longevity and dementia care? Immersing myself in a range of communities and care environments, I explored holistic dementia care strategies and lifestyles that maximize autonomy, dignity, and emotional well-being for the elderly population and people living with dementia.
+How does culture impact longevity and dementia care? Immersing myself in a range of communities and care environments, I explored holistic dementia care strategies and lifestyles that maximize autonomy, dignity, and emotional well-being for people living with dementia.
