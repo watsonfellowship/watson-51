@@ -27,4 +27,4 @@ countries:
 
 ---
 
-The money we use, the sports we play, and other aspects of daily life are taken for granted. This last year, I unpacked what this means and how it happens. I explored how national identities are shaped in daily life, how people think about this, and where competing narratives fit in.
+The money we use, the sports we play, and other ordinary aspects of daily life hold powerful symbolism and imagery that tell stories about personal and national identity. I explored how national identities are shaped in daily life, how people think about this, and how they reconcile competing narratives.
