@@ -16,7 +16,7 @@ countries:
   - Chile
   - New Zealand
   - Taiwan
-  - Philippines
+  - The Philippines
   - Japan
   - Kenya
 
