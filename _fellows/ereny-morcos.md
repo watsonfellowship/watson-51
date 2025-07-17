@@ -17,4 +17,4 @@ countries:
 
 ---
 
-In what ways have immigrants, refugees and asylum seekers maintained their identities, shared their cultures, and redefined home, as they built new lives in unfamiliar communities? By amplifying these personal stories, we can learn about true resilience, human connection and identity.
+In what ways have immigrants, refugees and asylum seekers maintained their identities, shared their cultures, and redefined home, as they built new lives in unfamiliar communities? I connected with immigrants, migrants, refugees, and local organizations to explore this complex question.
