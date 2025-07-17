@@ -11,7 +11,7 @@ project: "Weaving Sound: Interdisciplinary Art in the Evolving Landscape"
 
 countries:
   - Mexico
-  - United Kingdom
+  - The United Kingdom
   - Portugal
   - Australia
   - Japan
