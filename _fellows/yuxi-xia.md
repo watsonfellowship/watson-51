@@ -23,4 +23,5 @@ countries:
 
 ---
 
-Why are plant-based establishments thriving in certain places? How are personal identities and social groups formed around plant-based lifestyles? Through cities and streets, from home kitchens to restaurants, I shared tastes, textures, colors with plant-based eaters while exploring their foodscapes: the places, people, processes, and meanings woven into every meal.
+Why are plant-based establishments thriving in certain places? How are personal identities and social groups formed around plant-based lifestyles? From home kitchens to restaurants, I learned from plant-based eaters while exploring their foodscapes. I explored the motivations for plant-based to understand how we can advance ethical consumption.
+
