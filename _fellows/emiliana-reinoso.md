@@ -20,4 +20,4 @@ countries:
 
 ---
 
-The planetary crisis brings complex and emergent questions. I visited different communities and social actors to think about the importance of relationality, stories and art in the face of climate change.
+On my year, I engaged with communities experiencing the devastating effects of the climate crisis, exploring their use of art to build connection and foster community resilience. 
