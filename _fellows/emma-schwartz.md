@@ -22,4 +22,4 @@ countries:
 
 ---
 
-During my Watson year, I spent my time working with people fighting for a world rooted in care rather than hierarchy, oppression, and punishment. I explored how physical community spaces allow people to live more communally and how that enables participation in struggles for liberation.
+During my Watson year, I worked with people fighting for a world rooted in care rather than hierarchy, oppression, and punishment. I explored how people targeted by police violence, oppression, and surveillance formed communities of care to keep one another safe without relying on police, prisons, and formal carceral systems.
