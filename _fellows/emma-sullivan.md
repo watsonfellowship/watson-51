@@ -11,7 +11,7 @@ project: "Beyond the Blank Page - Sustainable Community Literature Practices"
 
 countries:
   - Ireland
-  - United Kingdom
+  - The United Kingdom
   - France
   - Taiwan
   - Slovenia
@@ -22,4 +22,4 @@ countries:
 
 ---
 
-By engaging with international literary production teams, newspaper publications, libraries, writers’ workshops, and artists, I sought to understand how literary programs can be designed responsively to the needs of those they serve. To further examine community practices, I looked towards international research networks, heritage trusts, and municipal recreation infrastructure.
+By engaging with international literary production teams, newspaper publications, libraries, writers’ workshops, and artists, I learned how literary programs can be designed to respond the needs of those they serve. To further examine community practices, I explored international research networks, heritage trusts, and municipal recreation infrastructure.
