@@ -21,4 +21,4 @@ countries:
 
 ---
 
-Theater uniquely reflects how societies engage with the environment, offering space for reflection, critique, and transformation. Across cultures, performances inherently reveal ecological values and anxieties. Rooted in the dynamics of nature, performance can be reframed as a biological imperative, blurring boundaries between culture and nature in pursuit of sustainability.
+Through the lens of theater, I explored how different groups learn about and grapple with their ecological footprints, environmental crises, aspirations for a sustainable future, and a deeper connection to Earth.
