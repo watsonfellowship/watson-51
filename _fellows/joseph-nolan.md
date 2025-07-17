@@ -17,7 +17,7 @@ countries:
   - Australia
   - Greece
   - Austria
-  - United Kingdom
+  - The United Kingdom
 
 ---
 
