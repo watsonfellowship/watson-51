@@ -19,4 +19,4 @@ countries:
 
 ---
 
-Industrial agriculture promotes chemical-dependent monocultures which devastate the natural environment and its inhabitants. To address the consequences of climate change and increasing cultural disconnection from the land, I explored food forests and seed to plate traditions around local food and forest management.
+Industrial agriculture promotes chemical-dependent monocultures which devastate the natural environment and its inhabitants. To address the consequences of climate change and increasing cultural disconnection from the land, I explored food forests and seed-to-plate traditions around local food and forest management.
