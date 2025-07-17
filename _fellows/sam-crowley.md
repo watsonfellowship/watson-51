@@ -18,4 +18,4 @@ countries:
 
 ---
 
-Contrasting the social, cultural, racial, economic, and geographic differences in cities across Guatemala, Mexico, Japan, the Philippines, and Tanzania, I have explored how and why people use visual art to create stories by crystallizing fleeting expression, history, interaction, and memory into something lasting and visible.
+Contrasting the social, cultural, racial, economic, and geographic differences across cities, I explored how art is used as a barometer that both defines difference and builds connection across it.
