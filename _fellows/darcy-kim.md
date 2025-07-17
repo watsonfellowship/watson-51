@@ -12,7 +12,7 @@ project: "Community centered AI engagement for social good"
 countries:
   - Korea
   - The Netherlands
-  - United Kingdom
+  - The United Kingdom
   - Brazil
   - Ecuador
   - Peru
