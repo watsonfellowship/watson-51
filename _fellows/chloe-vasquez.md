@@ -11,7 +11,7 @@ project: "Snakebite Across the Tropics"
 
 countries:
   - India
-  - United Kingdom
+  - The United Kingdom
   - Thailand
   - Laos
   - Vietnam
