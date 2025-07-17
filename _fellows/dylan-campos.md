@@ -19,7 +19,7 @@ countries:
   - Portugal
   - Singapore
   - Thailand
-  - United Kingdom
+  - The United Kingdom
 
 ---
 
