@@ -20,8 +20,8 @@ countries:
   - Aruba
   - South Africa
   - Japan
-  - Philippines
+  - The Philippines
 
 ---
 
-For my Watson year, I partnered with community based organizations. We collectively grappled with how to build, integrate, and respond to AI with a soft and caring heart.
+As Artificial Intelligence becomes increasingly entwined with human experiences, it's crucial that we confront its limitations. On my Watson year, I partnered with community based organizations to understand AI for social good.
