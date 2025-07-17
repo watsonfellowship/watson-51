@@ -11,7 +11,7 @@ project: "Indigenous Cultural Education"
 
 countries:
   - Aotearoa
-  - the Philippines
+  - The Philippines
   - Thailand
   - South Africa
   - Morocco
