@@ -19,4 +19,4 @@ countries:
 
 ---
 
-Over the course of the year, I examined how the climate crisis has affected various Indigenous communities from 6 countries. I found that its impact varied from one community to another, resulting in diverse forms of resilience around the world.
+Over the course of the year, I examined how the climate crisis has affected Indigenous communities around the world. I found that its impact varied across communities, resulting in diverse forms of resilience. 
