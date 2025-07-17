@@ -18,4 +18,4 @@ countries:
 
 ---
 
-I sought to understand and support the transnational movement of ecosystem restoration by investigating how rural communities balance restorative practices with social development.
+On my year, I learned from and supported the transnational movement of ecosystem restoration by investigating how rural communities balance restorative practices with social development.
