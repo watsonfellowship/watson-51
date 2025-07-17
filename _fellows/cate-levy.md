@@ -12,7 +12,7 @@ project: "Voices of Resistance: Community Action Against Patriarchal Violence"
 countries:
   - The Netherlands
   - Germany
-  - United Kingdom
+  - The United Kingdom
   - Italy
   - Spain
   - Mexico
