@@ -24,4 +24,4 @@ countries:
 
 ---
 
-After my mother survived a venomous viper bite, I spent the past year exploring how communities across Asia, Africa, and Latin America respond to snakebites. From traditional healers to high-tech labs, I studied approaches to prevention, treatment, and education—exploring the systems that shape survival.
+Snakebite envenoming is a global health threat impacting mainly poor, rural communities in tropical countries. I spent the past year exploring how communities respond to snakebites. From traditional healers to high-tech labs, I studied approaches to prevention, treatment, and education—exploring the systems that shape survival.
