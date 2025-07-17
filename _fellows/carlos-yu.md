@@ -16,4 +16,4 @@ countries:
 
 ---
 
-Narratives can embolden or blur metaphorical and literal borders. I've listened to storytellers of various mediums to understand what their narratives respond to, what environment they grew from, and how they connect to one another.
+Narratives can embolden or blur metaphorical and literal borders. Embedding with publishers, book clubs, writers’ collectives, individual writers, and storytellers, my year focused on storyteller's narratives, the environments they grew from, and the ways they connect to one another.
