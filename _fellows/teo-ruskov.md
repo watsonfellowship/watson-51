@@ -10,7 +10,7 @@ school: Amherst College
 project: "Pronunciation in Context"
 
 countries:
-  - United Kingdom
+  - The United Kingdom
   - Nepal
   - India
   - Thailand
