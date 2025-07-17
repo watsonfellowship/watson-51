@@ -19,8 +19,8 @@ countries:
   - Korea
   - The Netherlands
   - Singapore
-  - United Kingdom
+  - The United Kingdom
 
 ---
 
-Mushrooms and fungi are foundational to life on earth and leveraging their importance can yield solutions to some of the world’s most pressing issues. To explore this, I spent time with mycologists, farmers, chefs, and designers envisioning fungi-forward initiatives for environmental health and regenerative food systems. Across countries, cultures, and disciplines, I discovered a collaborative vision for building climate resilience with fungi through education, conservation, innovation, and community.
+Mushrooms and fungi are foundational to life on earth and leveraging their importance can yield solutions to some of the world’s most pressing issues. To explore this, I spent time with mycologists, farmers, chefs, and designers envisioning fungi-forward initiatives for environmental health and regenerative food systems. I discovered a collaborative vision for building climate resilience with fungi through education, conservation, innovation, and community.
