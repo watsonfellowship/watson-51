@@ -1,7 +1,72 @@
-/* 
-////////////////////////////////////////////////////////////////////////////
-Embed custom fonts here
-////////////////////////////////////////////////////////////////////////////
-*/
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Avenir Pro 85 Heavy by Linotype
+ * URL: https://www.myfonts.com/products/pro-85-heavy-115678-avenir-368789
+ * Copyright: Copyright Â© 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Avenir Pro 55 Roman by Linotype
+ * URL: https://www.myfonts.com/products/pro-55-roman-115678-avenir-368745
+ * Copyright: Copyright Â© 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Avenir Pro 85 Heavy Oblique by Linotype
+ * URL: https://www.myfonts.com/products/pro-85-heavy-oblique-115678-avenir-368798
+ * Copyright: Copyright Â© 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Avenir Pro 55 Oblique by Linotype
+ * URL: https://www.myfonts.com/products/pro-55-oblique-115678-avenir-368751
+ * Copyright: Copyright Â© 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Â© 2023 MyFonts Inc. */
 
 
+
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro55Roman.woff2') format('woff2'), url('/fonts/AvenirPro55Roman/font.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro55Oblique.woff2') format('woff2'), url('/fonts/AvenirPro55Oblique/font.woff') format('woff');
+  font-weight: 400;
+  font-style:italic;
+}
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro85Heavy.woff2') format('woff2'), url('/fonts/AvenirPro85Heavy/font.woff') format('woff');
+  font-weight:700;
+  font-style:normal;
+}
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro85HeavyOblique.woff2') format('woff2'), url('/fonts/AvenirPro85HeavyOblique/font.woff') format('woff');
+  font-weight:700;
+  font-style:italic;
+}
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro85Heavy.woff2') format('woff2'), url('/fonts/AvenirPro85Heavy/font.woff') format('woff');
+  font-weight:800;
+  font-style:normal;
+}
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro85HeavyOblique.woff2') format('woff2'), url('/fonts/AvenirPro85HeavyOblique/font.woff') format('woff');
+  font-weight:800;
+  font-style:italic;
+}
+@font-face {
+  font-family: "Avenir W01";
+  src: url('/fonts/AvenirPro35Light.woff2') format('woff2'), url('/fonts/AvenirPro35Light/font.woff') format('woff');
+  font-weight:300;
+  font-style:normal;
+}
