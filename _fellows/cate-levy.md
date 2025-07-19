@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Cate Levy
 
 email: clhl2002@gmail.com

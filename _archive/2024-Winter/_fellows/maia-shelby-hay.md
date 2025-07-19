@@ -1,5 +1,7 @@
 ---
-layout: fellows
+layout: redirect-fellows
+
+class: 2024-Winter
 
 title: Maia Shelby Hay
 

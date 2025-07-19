@@ -1,5 +1,7 @@
 ---
-layout: fellows
+layout: redirect-fellows
+
+class: 22-23
 
 title: Gretel Cuevas
 

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Maya Lamm
 
 email: mayalamm54@gmail.com

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Joseph Nolan
 
 email: joeydnolan@gmail.com

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Nine Reed-Mera
 
 email: nr6502@bard.edu

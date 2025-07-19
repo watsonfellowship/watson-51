@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Yuxi Xia
 
 email: yxia@wellesley.edu

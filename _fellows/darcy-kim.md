@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Darcy Kim
 
 email: ak104@wellesley.edu

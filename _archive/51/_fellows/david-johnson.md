@@ -1,5 +1,7 @@
 ---
-layout: fellows
+layout: redirect-fellows
+
+class: 51
 
 title: David Alan Johnson
 

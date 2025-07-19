@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Sam Crowley
 
 email: crowles2@union.edu 

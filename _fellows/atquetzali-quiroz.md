@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Atquetzali Quiroz
 
 email: atquetzali.quiroz@gmail.com
