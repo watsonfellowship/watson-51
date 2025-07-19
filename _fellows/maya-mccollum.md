@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Maya McCollum
 
 email: mmccollu@oberlin.edu

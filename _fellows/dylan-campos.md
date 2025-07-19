@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Dylan Campos
 
 email: dcampos@wesleyan.edu

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Grace Hill
 
 email: grace2002@me.com

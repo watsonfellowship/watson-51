@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Suriya SamKhuth
 
 email: mskhuth810@gmail.com

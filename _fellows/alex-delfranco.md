@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Alex DelFranco
 
 email: alexanderdelfranco@gmail.com

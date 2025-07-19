@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Wriley Hodge
 
 email: whodge24@coa.edu

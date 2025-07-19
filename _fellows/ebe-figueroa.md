@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Ebe Figueroa
 
 email: ebe.figueroa31@gmail.com

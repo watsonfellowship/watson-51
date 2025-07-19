@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Emiliana Reinoso
 
 email: ereinoso24@coa.edu

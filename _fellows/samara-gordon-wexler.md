@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Samara Gordon Wexler
 
 email: samgordonwexler@gmail.com

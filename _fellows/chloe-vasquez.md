@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Chloe Vasquez
 
 email: chloe.el.vasquez@gmail.com

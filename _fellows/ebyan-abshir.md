@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Ebyan Abshir
 
 email: eabshir148@gmail.com

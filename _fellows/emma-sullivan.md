@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Emma Sullivan
 
 email: es111@wellesley.edu

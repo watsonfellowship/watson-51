@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Julia Blackmon
 
 email: juliadblackmon@gmail.com

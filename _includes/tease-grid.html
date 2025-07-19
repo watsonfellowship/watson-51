@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="tease-grid">
 	{% for fellow in site.fellows %}
-	  {% if page.url != fellow.url %}
+	  {% if page.url != fellow.url and fellow.layout == 'fellows' %}
 	    {% include tease.html %}
 	  {% endif %}
 	{% endfor %}

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Tommy Shenoi
 
 email: tshenoi@students.pitzer.edu

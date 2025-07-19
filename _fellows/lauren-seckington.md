@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Lauren Seckington
 
 email: lauren.seckington@gmail.com

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Emma Schwartz
 
 email: emschwartz8@gmail.com

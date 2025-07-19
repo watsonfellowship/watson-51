@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Noah Vargas
 
 email: vargasnoah5@gmail.com

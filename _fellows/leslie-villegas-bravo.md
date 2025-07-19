@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Leslie Villegas Bravo
 
 email: lvillegas@conncoll.edu

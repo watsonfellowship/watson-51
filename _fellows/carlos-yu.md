@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Carlos Yu
 
 email: carlosyunotebook@gmail.com

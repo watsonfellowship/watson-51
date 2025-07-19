@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Sira Nassoko
 
 email: sira.nassoko02@gmail.com

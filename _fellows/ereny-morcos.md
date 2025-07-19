@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Ereny Morcos
 
 email: emorcoscolleges10@gmail.com

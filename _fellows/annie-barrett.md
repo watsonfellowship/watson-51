@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Annie Barrett
 
 email: annie.barrett2602@gmail.com

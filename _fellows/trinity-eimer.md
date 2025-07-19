@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Trinity Eimer
 
 email: trinityeimer@gmail.com

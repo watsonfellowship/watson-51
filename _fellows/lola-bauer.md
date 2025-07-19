@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Lola Bauer
 
 email: lolabauer07@gmail.com

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Maddi Schink
 
 email: maddisonshay@gmail.com

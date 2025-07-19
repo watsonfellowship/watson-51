@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Sophie Demaisy
 
 email: sosodem@hotmail.ca

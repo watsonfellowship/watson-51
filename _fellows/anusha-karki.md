@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Anusha Karki
 
 email: anushakarki5801@gmail.com
