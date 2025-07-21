@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Slate Hyacinthe
 
 email: slatehyacinthe@gmail.com

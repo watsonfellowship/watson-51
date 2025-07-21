@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Agathe Mwehu
 
 email: mwehu_muhiya@wheatoncollege.edu

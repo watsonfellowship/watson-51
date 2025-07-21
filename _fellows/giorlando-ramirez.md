@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Giorlando Ramirez
 
 email: ramirezgiorlando@gmail.com

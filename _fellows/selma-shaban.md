@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Selma Shaban
 
 email: sshaban0119@gmail.com

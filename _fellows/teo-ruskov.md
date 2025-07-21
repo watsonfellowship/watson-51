@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Teo Ruskov
 
 email: teodosii.ruskov@gmail.com

@@ -1,6 +1,8 @@
 ---
 layout: fellows
 
+class: current
+
 title: Elizabeth LaCroix
 
 email: eliz.g.lacroix@gmail.com
