@@ -7,7 +7,7 @@ title: Dylan Campos
 
 email: dcampos@wesleyan.edu
 
-school: Wesleyan College
+school: Wesleyan University
 
 project: "Communities Cultivate Cities: Urban Agriculture as Power"
 
