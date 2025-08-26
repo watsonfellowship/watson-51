@@ -5,7 +5,7 @@ class: current
 
 title: Sophie Demaisy
 
-email: sosodem@hotmail.ca
+email: sdemaisy@gmail.com
 
 school: Connecticut College
 
