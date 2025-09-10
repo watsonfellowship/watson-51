@@ -5,7 +5,7 @@ class: current
 
 title: Wriley Hodge
 
-email: whodge24@coa.edu
+email: wrileyhodge@gmail.com
 
 school: College of the Atlantic
 
