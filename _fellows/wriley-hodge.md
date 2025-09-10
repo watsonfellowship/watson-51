@@ -23,4 +23,4 @@ countries:
 
 ---
 
-I spent this year following seabirds on their migrations to the edges of the world. I explored how conservation efforts address existential threats to seabirds and island communities, and recorded their stories through writing and painting. I found stories of loss and of perseverance. I discovered that I was seeking poetry: poetry in birds and islands, ice and stone, people and hope.
+I spent this year following seabirds on their migrations to the edges of the world. I explored how conservation efforts address existential threats to seabirds and island communities. I recorded the stories I found through writing and visual art. I found stories of loss and of perseverance. I discovered that I was seeking poetry: poetry in birds and islands, ice and stone, people and hope.
