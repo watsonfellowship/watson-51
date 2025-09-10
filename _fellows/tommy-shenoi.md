@@ -5,7 +5,7 @@ class: current
 
 title: Tommy Shenoi
 
-email: tshenoi@students.pitzer.edu
+email: tommy@shenoi.com
 
 school: Pitzer College
 
