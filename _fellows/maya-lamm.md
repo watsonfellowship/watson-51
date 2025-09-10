@@ -19,7 +19,9 @@ countries:
   - New Zealand
   - Dominica
   - Italy
+  - Kenya
+  - Bhutan
 
 ---
 
-How do societies around the world give voice to their elders? What is gained from intergenerational relationships? This year, I engaged with families, elder-support organizations, community gatherings, and spiritual leaders, to learn what unites and alienates generations as the world changes.
+How do societies around the world care for, respect, and give voice to their elders? What is gained from intergenerational relationships? This year, I engaged with families, elder-support organizations, community gatherings, and spiritual leaders, to learn what unites and alienates generations as the world changes.
